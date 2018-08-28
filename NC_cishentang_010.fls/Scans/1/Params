@@ -1,0 +1,2682 @@
+
+AttrContainer { 
+Attr<String> { 
+Name "Name"
+Value "ScannerParam"
+}
+Attr<int> { 
+Name "Layer"
+Value 3
+}
+Attr<int> { 
+Name "NumRows"
+Value 2134
+}
+Attr<int> { 
+Name "NumCols"
+Value 5072
+}
+Attr<double> { 
+Name "RowStartAngle"
+Value 1.570796327
+}
+Attr<double> { 
+Name "RowEndAngle"
+Value -1.047197551
+}
+Attr<double> { 
+Name "ColStartAngle"
+}
+Attr<double> { 
+Name "ColAccAngle"
+}
+Attr<double> { 
+Name "ColEndAngle"
+Value 6.283185307
+}
+Attr<int> { 
+Name "TotalNumRows"
+Value 4000
+}
+Attr<int> { 
+Name "AutoNumCols"
+Value 1
+}
+Attr<bool> { 
+Name "ForceEndAngleReached"
+Value true
+}
+Attr<int> { 
+Name "OffsetOfFirstRow"
+}
+Attr<int> { 
+Name "LogicalClockSync"
+}
+Attr<Uuid> { 
+Name "ScanProject"
+Value 9f45e2bb-dbc1-8cc2-d592-033dc9c71171
+}
+Attr<int> { 
+Name "ScanGlobNum"
+}
+Attr<int> { 
+Name "ScanNum"
+Value 10
+}
+Attr<int> { 
+Name "SplitAfterLines"
+}
+Attr<String> { 
+Name "ScanFileInfo"
+Value "AutoAlign"
+}
+Attr<String> { 
+Name "ScanFileName"
+Value "NC_cishentang_"
+}
+Attr<String> { 
+Name "ScanLocPath"
+Value "/Scans/Scans"
+}
+Attr<String> { 
+Name "ScanRemotePath"
+Value "c:\\scans"
+}
+Attr<int> { 
+Name "ScanMode"
+Value 1
+}
+Attr<int> { 
+Name "LocalWriteMode"
+Value 10
+}
+Attr<int> { 
+Name "ExtStorageCtrl"
+}
+Attr<String> { 
+Name "ScannerID"
+Value "LLS071507281"
+}
+Attr<String> { 
+Name "ScannerRevision"
+Value "1"
+}
+Attr<String> { 
+Name "ScannerType"
+Value "FARO Focus 3D X 130"
+}
+Attr<String> { 
+Name "ScannerSerNo"
+Value "LLS071507281"
+}
+Attr<double> { 
+Name "ScannerRange"
+Value 130
+}
+Attr<double> { 
+Name "ScanDistOffset"
+}
+Attr<double> { 
+Name "ScanDistFactor"
+}
+Attr<int> { 
+Name "ScanMinGreyVal"
+}
+Attr<int> { 
+Name "ScanMaxGreyVal"
+Value 2043
+}
+Attr<int> { 
+Name "ScanTriggerMode"
+Value 1
+}
+Attr<double> { 
+Name "ScanTriggerOffset"
+}
+Attr<int> { 
+Name "ScanVertEncoderSteps"
+Value 2000
+}
+Attr<int> { 
+Name "ScanLaserMode"
+Value 1
+}
+Attr<int> { 
+Name "ScanHorEncoderSteps"
+Value 1978368
+}
+Attr<double> { 
+Name "ScanHorSpeedFact"
+Value 1
+}
+Attr<SVec3us> { 
+Name "ScanRawDistDelay"
+}
+Attr<String> { 
+Name "ScannerInfo"
+}
+Attr<int> { 
+Name "EncoderIndexOfFirstRowHalf0"
+Value 41120
+}
+Attr<int> { 
+Name "EncoderIndexOfFirstRowHalf1"
+Value 41136
+}
+Attr<double> { 
+Name "ScanMirrorAdjustment"
+}
+Attr<double> { 
+Name "ScanMirrorAxisAdjustment"
+}
+Attr<double> { 
+Name "ScanHorLaserAdjustment"
+}
+Attr<double> { 
+Name "ScanVertLaserAdjustment"
+}
+Attr<String> { 
+Name "ScanCalibFile"
+}
+Attr<double> { 
+Name "Temperature"
+}
+Attr<double> { 
+Name "LaserPower"
+Value 0.02
+}
+Attr<double> { 
+Name "LaserCurrent"
+}
+Attr<double> { 
+Name "MotorCurrent"
+}
+Attr<Vec3dd> { 
+Name "ScanPosition"
+}
+Attr<Vec3dd> { 
+Name "ScanAxis"
+Value -0.31133542 0.95030009 0
+}
+Attr<double> { 
+Name "ScanAngle"
+Value 0.014296839
+}
+Attr<String> { 
+Name "GPSNMEA"
+Value "$GPRMC,080546.000,A,2840.6585,N,11552.8975,E,0.57,35.37,281117,,,A*5C\n$GPGGA,080547.000,2840.6583,N,11552.8975,E,1,10,1.0,29.0,M,-5.2,M,,0000*74\n$GPGSA,A,3,18,57,10,12,25,32,21,20,14,15,,,1.7,1.0,1.3*38\n$GPGSV,3,1,12,18,86,113,14,57,61,131,17,10,59,325,32,12,37,102,18*7C\n$GPGSV,3,2,12,25,32,150,18,32,32,299,13,21,25,201,13,20,20,137,18*79\n$GPGSV,3,3,12,14,18,284,10,15,17,079,15,24,40,039,04,31,10,226,*78\n"
+}
+Attr<int> { 
+Name "GPSUsage"
+Value 1
+}
+Attr<int> { 
+Name "InclinometerUsage"
+Value 1
+}
+Attr<int> { 
+Name "AltimeterUsage"
+Value 1
+}
+Attr<int> { 
+Name "CompassUsage"
+Value 1
+}
+Attr<String> { 
+Name "Time"
+Value "28.11.2017 16:17:9:300"
+}
+Attr<String> { 
+Name "ScanOpDVersion"
+Value "\"iQLib\" 5.5.7.50152"
+}
+Attr<int> { 
+Name "OptionalStatusReset"
+}
+Attr<String> { 
+Name "OperatorName"
+Value "Default Operator"
+}
+Attr<String> { 
+Name "OperatorCompany"
+}
+Attr<String> { 
+Name "OperatorDepartment"
+}
+Attr<String> { 
+Name "OperatorNumber"
+}
+Attr<String> { 
+Name "OperatorEMailAdress"
+}
+Attr<String> { 
+Name "OperatorInfo"
+}
+Attr<String> { 
+Name "OperationName"
+Value "NC_cishentang_"
+}
+Attr<String> { 
+Name "OperationCompany"
+}
+Attr<String> { 
+Name "OperationDivision"
+}
+Attr<String> { 
+Name "OperationSubDivision"
+}
+Attr<String> { 
+Name "OperationArea"
+}
+Attr<String> { 
+Name "OperationInfo"
+}
+Attr<int> { 
+Name "UseOfFields"
+Value 1
+}
+Attr<int> { 
+Name "ApplyDefaultFilter"
+Value 1
+}
+Attr<int> { 
+Name "ColorMode"
+}
+Attr<bool> { 
+Name "TrafoInitialized"
+Value true
+}
+Attr<int> { 
+Name "AutoContrast"
+Value 2
+}
+Attr<double> { 
+Name "faroCSLastServiceDate"
+Value 1491579219490
+}
+Attr<double> { 
+Name "faroCSNextServiceDate"
+Value 1523115219490
+}
+Attr<int> { 
+Name "OriginalNumRows"
+}
+Attr<int> { 
+Name "OriginalNumCols"
+}
+Attr<double> { 
+Name "RefDistDeviation"
+}
+Attr<String> { 
+Name "CreatedBy"
+}
+Attr<int> { 
+Name "CorrespondenceSearchFlags"
+}
+Attr<String> { 
+Name "ManipulatorSupport"
+}
+Attr<Uuid> { 
+Name "UUID"
+Value 0522fd6d-b2be-4978-bf0f-aed362c3f97c
+}
+Attr<Uuid> { 
+Name "ScanProfile"
+}
+Attr<bool> { 
+Name "experimentalParameterSet"
+}
+Attr<double> { 
+Name "LastOnSiteCompensationDate"
+Value -1
+}
+SubContainer { 
+"InclinometerField" "InclinometerField"
+AttrContainer { 
+Attr<String> { 
+Name "Name"
+Value "InclinometerField"
+}
+Attr<double> { 
+Name "PhiOffset"
+Value 1.570796327
+}
+Attr<Vec3ddVector> { 
+Name "Measurements"
+}
+Attr<double> { 
+Name "Radius"
+}
+Attr<double> { 
+Name "Phi0"
+}
+Attr<Vec4ddVector> { 
+Name "Normals"
+Value { 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 } 
+}
+Attr<int> { 
+Name "RevisionFW"
+}
+Attr<double> { 
+Name "Theta"
+Value 0.014296839
+}
+Attr<double> { 
+Name "SigmaTheta"
+}
+Attr<double> { 
+Name "Phi"
+Value 3.458190621
+}
+Attr<double> { 
+Name "SigmaPhi"
+}
+Attr<double> { 
+Name "BiasX"
+Value -0.0012061103
+}
+Attr<double> { 
+Name "BiasXSigma"
+}
+Attr<double> { 
+Name "BiasY"
+Value 0.00026278035
+}
+Attr<double> { 
+Name "BiasYSigma"
+}
+Attr<double> { 
+Name "CalibratedBiasX"
+Value 0.02144926
+}
+Attr<double> { 
+Name "CalibratedBiasXSigma"
+}
+Attr<double> { 
+Name "CalibratedBiasY"
+Value -0.0031518702
+}
+Attr<double> { 
+Name "CalibratedBiasYSigma"
+}
+Attr<double> { 
+Name "Residual"
+}
+Attr<double> { 
+Name "TemperatureMean"
+Value 15.285609801
+}
+Attr<double> { 
+Name "TemperatureMin"
+Value 2.051043342
+}
+Attr<double> { 
+Name "TemperatureMax"
+Value 28.412429949
+}
+Attr<double> { 
+Name "TemperatureStd"
+Value 12.830230361
+}
+Attr<double> { 
+Name "TemperatureOfCalibration"
+Value 32.29132304
+}
+Attr<double> { 
+Name "LimitOfTemperatureVariation"
+Value 2
+}
+Attr<double> { 
+Name "SensitivityX"
+Value 0.29972901
+}
+Attr<double> { 
+Name "SensitivityY"
+Value 0.29960094
+}
+Attr<double> { 
+Name "PhiX"
+Value 0.013722848
+}
+Attr<double> { 
+Name "PhiY"
+Value 4.72659669
+}
+Attr<double> { 
+Name "PhiX0"
+Value 3.117696095
+}
+Attr<double> { 
+Name "PhiY0"
+Value 4.68800756
+}
+Attr<double> { 
+Name "PosX"
+Value -0.023
+}
+Attr<double> { 
+Name "PosY"
+Value -0.0382
+}
+Attr<double> { 
+Name "WeightX"
+Value 1
+}
+Attr<double> { 
+Name "WeightY"
+Value 1
+}
+Attr<int> { 
+Name "Calibrated"
+Value 2
+}
+Attr<int> { 
+Name "DataIsValid"
+}
+Attr<int> { 
+Name "PointsPerTurn"
+Value 1000
+}
+Attr<int> { 
+Name "DistanceBetweenPoints"
+Value 524
+}
+Attr<double> { 
+Name "RotationSpeed"
+Value 3
+}
+Attr<int> { 
+Name "Averaging"
+Value 3
+}
+Attr<int> { 
+Name "AverageSinglePoint"
+Value 1
+}
+Attr<int> { 
+Name "AverageScan"
+}
+Attr<Vec3dd> { 
+Name "InclinometerScanAxis"
+Value -0.31133542 0.95030009 0
+}
+Attr<double> { 
+Name "InclinometerScanAngle"
+Value 0.014296839
+}
+Attr<int> { 
+Name "InclinometerError"
+}
+Attr<double> { 
+Name "CalibStartScanAngle"
+}
+Attr<double> { 
+Name "CalibStopScanAngle"
+Value 0.35
+}
+Attr<double> { 
+Name "CalibRotationSpeed"
+Value 2
+}
+Attr<int> { 
+Name "CalibNumberOfRotations"
+Value 2
+}
+Attr<int> { 
+Name "CalibAveraging"
+}
+Attr<double> { 
+Name "IncLatitude"
+}
+Attr<double> { 
+Name "IncAltitude"
+}
+Attr<bool> { 
+Name "EmulateThreeAxisAccelerometer"
+}
+Attr<bool> { 
+Name "OverHeadOrientation"
+}
+Attr<bool> { 
+Name "ReportErrorAfterScan"
+Value true
+}
+Attr<double> { 
+Name "CoarseSensitivityX"
+Value 0.30442623
+}
+Attr<double> { 
+Name "CoarselyCalibratedBiasX"
+Value 0.52581077
+}
+Attr<double> { 
+Name "AmplitudeX"
+}
+Attr<double> { 
+Name "AmplitudeY"
+}
+Attr<Vec3ddVector> { 
+Name "IncScanAxis"
+}
+Attr<double> { 
+Name "IncScanAngle"
+}
+}
+}
+SubContainer { 
+"MessagesField" "MessagesField"
+AttrContainer { 
+Attr<String> { 
+Name "Name"
+Value "MessagesField"
+}
+Attr<IntVector> { 
+Name "MessageId"
+}
+Attr<IntVector> { 
+Name "MessageLevel"
+}
+Attr<IntVector> { 
+Name "MessageType"
+}
+Attr<StringArray> { 
+Name "MessageSubject"
+}
+Attr<StringArray> { 
+Name "MessageText"
+}
+}
+}
+SubContainer { 
+"SensorFieldPhaseShift" "SensorField"
+AttrContainer { 
+Attr<String> { 
+Name "Name"
+Value "SensorField"
+}
+Attr<int> { 
+Name "DataVersion"
+Value 7
+}
+Attr<int> { 
+Name "RevisionHW"
+Value 4
+}
+Attr<String> { 
+Name "RevisionFW"
+Value "0004.0400"
+}
+Attr<String> { 
+Name "ManufactureCode"
+Value "LLS071507281"
+}
+Attr<int> { 
+Name "BoardIdNumber"
+}
+Attr<int> { 
+Name "ScanMode"
+}
+Attr<double> { 
+Name "ModuleCurrent"
+}
+Attr<double> { 
+Name "MaxModuleCurrent"
+}
+Attr<DVector> { 
+Name "MinI2CTemp"
+Value { 0 0 0 0 0 } 
+}
+Attr<DVector> { 
+Name "I2CTemp"
+Value { 0 0 0 0 0 } 
+}
+Attr<DVector> { 
+Name "MaxI2CTemp"
+Value { 0 0 0 0 0 } 
+}
+Attr<double> { 
+Name "MinMcTemp"
+}
+Attr<double> { 
+Name "mcTemp"
+}
+Attr<double> { 
+Name "MaxMcTemp"
+}
+Attr<int> { 
+Name "ModuleActiveTime"
+}
+Attr<double> { 
+Name "DistFactor"
+Value 0.073171534
+}
+Attr<double> { 
+Name "DistRange"
+Value 130
+}
+Attr<int> { 
+Name "MinGreyVal"
+}
+Attr<int> { 
+Name "MaxGreyVal"
+Value 2043
+}
+Attr<int> { 
+Name "FilterType"
+Value 3
+}
+Attr<int> { 
+Name "FilterMode"
+Value -1
+}
+Attr<int> { 
+Name "HistSizeData"
+}
+Attr<int> { 
+Name "HistSizeNoise"
+}
+Attr<double> { 
+Name "NoiseThreshold"
+}
+Attr<int> { 
+Name "TriggerMode"
+Value 16
+}
+Attr<int> { 
+Name "LaserMode"
+Value 1
+}
+Attr<int> { 
+Name "SensorType"
+Value 14
+}
+Attr<int> { 
+Name "SensorMode"
+Value 35
+}
+Attr<double> { 
+Name "MeasurementRate"
+Value 244140.625
+}
+Attr<double> { 
+Name "MeasurementRateBase"
+Value 122070.3125
+}
+Attr<bool> { 
+Name "DopplerCompensationDisabled"
+}
+Attr<bool> { 
+Name "RawADCSupportEnabled"
+}
+Attr<bool> { 
+Name "RawADCUseScanArea"
+}
+Attr<uint32_t> { 
+Name "RawADCSampleCount"
+}
+Attr<bool> { 
+Name "RawADCHorizontalTriggerConditionEnabled"
+}
+Attr<uint32_t> { 
+Name "RawADCHorizontalStart"
+}
+Attr<uint32_t> { 
+Name "RawADCHorizontalEnd"
+}
+Attr<bool> { 
+Name "RawADCVerticalTriggerConditionEnabled"
+}
+Attr<uint32_t> { 
+Name "RawADCVerticalStart"
+}
+Attr<uint32_t> { 
+Name "RawADCVerticalEnd"
+}
+Attr<uint32_t> { 
+Name "RawADCMinGreyValue"
+}
+Attr<double> { 
+Name "TempCtrlLdTemp"
+Value 30
+}
+Attr<int> { 
+Name "TempCtrlGain"
+Value 10
+}
+Attr<int> { 
+Name "TempCtrlTC"
+Value 300
+}
+Attr<int> { 
+Name "PhaseTxData"
+Value 68
+}
+Attr<int> { 
+Name "ColorScan"
+}
+Attr<int> { 
+Name "CmosCameraType"
+Value 2
+}
+Attr<Vec3uiVector> { 
+Name "CmosCameraRegisters"
+Value { 12547 3 255  12296 130 255  12332 3 255  12311 127 255  12312 252 255  14352 194 255  14358 0 255  12288 96 255  12289 0 255  12290 15 255  12291 0 255  13842 138 255  13843 131 255  13844 10 255  13858 56 255  13873 6 255  13874 83 255  12303 10 255  12304 80 255  12305 11 255  13824 68 255  13857 48 255  13859 9 255  14348 9 255  14349 46 255  14849 3 255  14082 12 255  14083 39 255  14084 40 255  14085 218 255  14086 66 255  14336 0 255  14337 161 255  14339 12 255  14863 64 255  14864 48 255  14875 64 255  14878 48 255  14865 160 255  14879 32 255  14874 3 255  14894 0 255  14895 97 255  14896 95 255  14848 124 255  12292 255 255  13571 0 255  13825 76 255  13828 56 255  16384 1 255  16385 64 255  16386 0 255  16387 128 255  16390 0 255  16391 24 255  20480 207 255  20512 4 255  20866 0 255  20887 1 255  21760 12 255  21762 0 255  21763 31 255  21764 0 255  21765 63 255  20608 8 255  21136 6 255  21146 1 255  21147 2 255  21148 4 255  21149 6 255  21150 10 255  21151 20 255  21152 24 255  21159 8 255  21161 12 255  21163 48 255  21165 56 255  21167 68 255  21253 32 255  21254 2 255  21255 0 255  21262 12 255  21264 24 255  21267 24 255  21268 12 255  21269 32 255  21270 15 255  21271 6 255  21506 60 255  21507 0 255  21512 0 255  21513 224 255  21514 56 255  21515 0 255  21535 58 255  21536 152 255  21539 58 255  21540 152 255  21632 12 255  21633 22 255  21634 42 255  21635 78 255  21636 97 255  21637 111 255  21638 123 255  21639 134 255  21640 142 255  21641 151 255  21642 164 255  21643 175 255  21644 197 255  21645 215 255  21646 232 255  21647 16 255  21648 4 255  21649 48 255  21650 7 255  21651 112 255  21652 6 255  21653 192 255  21654 4 255  21655 224 255  21656 4 255  21657 0 255  21658 3 255  21659 64 255  21660 2 255  21661 224 255  21662 2 255  21663 160 255  21664 2 255  21665 128 255  21666 2 255  21667 96 255  21668 2 255  21669 16 255  21670 1 255  21671 208 255  21672 1 255  21673 64 255  21674 0 255  21675 240 255  21676 0 255  21677 192 255  21678 0 255  21679 42 255  21686 0 255  21683 16 255  21376 1 255  21377 0 255  21378 0 255  21379 22 255  21380 0 255  21381 7 255  21382 0 255  21383 0 255  21384 1 255  21385 22 255  21386 0 255  21387 60 255  21388 0 255  21389 0 255  21390 0 255  21391 4 255  21392 0 255  21393 187 255  21394 0 255  21395 38 255  12302 24 255  17936 0 255  18205 5 255  18184 6 255  14344 8 255  14345 0 255  14346 6 255  14347 0 255  17152 48 255  18205 0 255  14360 152 255  18195 1 255  18204 80 255  17931 53 255  17932 38 255  14357 68 255  13860 0 255  13872 36 255  13875 3 255  15361 180 255  15360 0 255  15364 40 255  15365 152 255  15366 0 255  15367 8 255  15368 0 255  15369 28 255  12301 2 255  15370 78 255  15371 31 255  14850 0 255  14851 97 255  14852 95 255  14848 124 255  14872 0 255  14873 124 255  14863 64 255  14864 48 255  14875 64 255  14878 48 255  14865 160 255  14879 32 255  14874 3 255  21506 60 255  21632 12 255  21633 22 255  21634 42 255  21635 78 255  21636 97 255  21637 111 255  21638 123 255  21639 134 255  21640 142 255  21641 151 255  21642 164 255  21643 175 255  21644 197 255  21645 215 255  21646 232 255  21647 16 255  21648 4 255  21649 48 255  21650 7 255  21651 112 255  21652 6 255  21653 192 255  21654 4 255  21655 224 255  21656 4 255  21657 0 255  21658 3 255  21659 64 255  21660 2 255  21661 224 255  21662 2 255  21663 160 255  21664 2 255  21665 128 255  21666 2 255  21667 96 255  21668 2 255  21669 16 255  21670 1 255  21671 208 255  21672 1 255  21673 64 255  21674 0 255  21675 240 255  21676 0 255  21677 192 255  21678 0 255  21679 42 255  21376 1 255  21377 0 255  21378 0 255  21379 22 255  21380 0 255  21381 7 255  21382 0 255  21383 0 255  21384 1 255  21385 22 255  21386 0 255  21387 60 255  21388 0 255  21389 0 255  21390 0 255  21391 4 255  21392 0 255  21393 187 255  21394 0 255  21395 38 255  21136 6 255  21146 1 255  21147 2 255  21148 4 255  21149 6 255  21150 10 255  21151 20 255  21152 24 255  21159 8 255  21161 12 255  21163 48 255  21165 56 255  21167 68 255  21760 12 255  21761 24 255  21762 0 255  21763 31 255  21764 0 255  21765 63 255  21888 2 255  17415 3 255  20480 207 255  20736 4 255  20737 12 255  20738 3 255  20739 6 255  20740 12 255  20741 4 255  20742 0 255  20743 0 255  20744 4 255  20745 12 255  20746 3 255  20747 6 255  20748 9 255  20749 4 255  20750 0 255  20751 0 255  20752 4 255  20753 12 255  20754 3 255  20755 6 255  20756 8 255  20757 4 255  20758 0 255  20759 0 255  20485 204 255  20864 255 255  20865 88 255  20866 0 255  20867 4 255  20868 37 255  20869 36 255  20870 25 255  20871 22 255  20872 22 255  20873 108 255  20874 84 255  20875 132 255  20876 138 255  20877 66 255  20878 42 255  20879 84 255  20880 60 255  20881 248 255  20882 4 255  20883 112 255  20884 240 255  20885 240 255  20886 3 255  20887 1 255  20888 5 255  20889 35 255  20890 4 255  20891 0 255  20892 6 255  20893 4 255  14856 14 255  14857 160 255  14862 6 255  14858 12 255  14859 48 255  14861 8 255  14337 161 255  12290 12 255  12290 0 255  17418 1 255  18195 1 255  17931 55 255  17932 34 255  18204 64 255  18205 5 255  17920 160 255  14357 4 255  20511 0 255  20482 224 255  17152 48 255  14360 232 255  14352 194 255  12288 96 255  12289 0 255  12291 0 255  20480 207 255  12296 66 255  12303 10 255  12304 80 255  12305 11 255  14348 9 255  14349 46 255  14357 1 255  17932 34 255  14856 2 255  14857 240 255  14862 33 255  14858 2 255  14859 112 255  14861 40 255  14082 12 255  14083 39 255  14084 40 255  14337 161 255  12296 2 255  17932 36 255  20481 131 255  21888 2 255  21891 80 255  21892 80 255  13578 0 255  13579 0 255  } 
+}
+Attr<Vec3uiVector> { 
+Name "CmosCameraRegistersV0020"
+Value { 12547 3 255  12296 130 255  12332 3 255  12311 127 255  12312 252 255  14352 194 255  14358 0 255  12288 96 255  12289 0 255  12290 15 255  12291 0 255  13842 138 255  13843 131 255  13844 10 255  13858 56 255  13873 6 255  13874 83 255  12303 10 255  12304 80 255  12305 11 255  13824 68 255  13857 48 255  13859 9 255  14348 9 255  14349 46 255  14849 3 255  14082 12 255  14083 39 255  14084 40 255  14085 218 255  14086 66 255  14336 0 255  14337 161 255  14339 12 255  14863 64 255  14864 48 255  14875 64 255  14878 48 255  14865 160 255  14879 32 255  14874 3 255  14894 0 255  14895 97 255  14896 95 255  14848 124 255  12292 255 255  13571 0 255  13825 76 255  13828 56 255  16384 1 255  16385 64 255  16386 0 255  16387 128 255  16390 0 255  16391 24 255  20480 207 255  20512 4 255  20866 0 255  20887 1 255  21760 12 255  21762 0 255  21763 31 255  21764 0 255  21765 63 255  20608 8 255  21136 6 255  21146 1 255  21147 2 255  21148 4 255  21149 6 255  21150 10 255  21151 20 255  21152 24 255  21159 8 255  21161 12 255  21163 48 255  21165 56 255  21167 68 255  21253 32 255  21254 2 255  21255 0 255  21262 12 255  21264 24 255  21267 24 255  21268 12 255  21269 32 255  21270 15 255  21271 6 255  21506 60 255  21507 0 255  21512 0 255  21513 224 255  21514 56 255  21515 0 255  21535 58 255  21536 152 255  21539 58 255  21540 152 255  21632 12 255  21633 22 255  21634 42 255  21635 78 255  21636 97 255  21637 111 255  21638 123 255  21639 134 255  21640 142 255  21641 151 255  21642 164 255  21643 175 255  21644 197 255  21645 215 255  21646 232 255  21647 16 255  21648 4 255  21649 48 255  21650 7 255  21651 112 255  21652 6 255  21653 192 255  21654 4 255  21655 224 255  21656 4 255  21657 0 255  21658 3 255  21659 64 255  21660 2 255  21661 224 255  21662 2 255  21663 160 255  21664 2 255  21665 128 255  21666 2 255  21667 96 255  21668 2 255  21669 16 255  21670 1 255  21671 208 255  21672 1 255  21673 64 255  21674 0 255  21675 240 255  21676 0 255  21677 192 255  21678 0 255  21679 42 255  21686 0 255  21683 16 255  21376 1 255  21377 0 255  21378 0 255  21379 22 255  21380 0 255  21381 7 255  21382 0 255  21383 0 255  21384 1 255  21385 22 255  21386 0 255  21387 60 255  21388 0 255  21389 0 255  21390 0 255  21391 4 255  21392 0 255  21393 187 255  21394 0 255  21395 38 255  12302 24 255  17936 0 255  18205 5 255  18184 6 255  14344 8 255  14345 0 255  14346 6 255  14347 0 255  17152 48 255  18205 0 255  14360 152 255  18195 1 255  18204 80 255  17931 53 255  17932 38 255  14357 68 255  13860 0 255  13872 36 255  13875 3 255  15361 180 255  15360 0 255  15364 40 255  15365 152 255  15366 0 255  15367 8 255  15368 0 255  15369 28 255  12301 2 255  15370 78 255  15371 31 255  14850 0 255  14851 97 255  14852 95 255  14848 124 255  14872 0 255  14873 124 255  14863 64 255  14864 48 255  14875 64 255  14878 48 255  14865 160 255  14879 32 255  14874 3 255  21506 60 255  21632 12 255  21633 22 255  21634 42 255  21635 78 255  21636 97 255  21637 111 255  21638 123 255  21639 134 255  21640 142 255  21641 151 255  21642 164 255  21643 175 255  21644 197 255  21645 215 255  21646 232 255  21647 16 255  21648 4 255  21649 48 255  21650 7 255  21651 112 255  21652 6 255  21653 192 255  21654 4 255  21655 224 255  21656 4 255  21657 0 255  21658 3 255  21659 64 255  21660 2 255  21661 224 255  21662 2 255  21663 160 255  21664 2 255  21665 128 255  21666 2 255  21667 96 255  21668 2 255  21669 16 255  21670 1 255  21671 208 255  21672 1 255  21673 64 255  21674 0 255  21675 240 255  21676 0 255  21677 192 255  21678 0 255  21679 42 255  21376 1 255  21377 0 255  21378 0 255  21379 22 255  21380 0 255  21381 7 255  21382 0 255  21383 0 255  21384 1 255  21385 22 255  21386 0 255  21387 60 255  21388 0 255  21389 0 255  21390 0 255  21391 4 255  21392 0 255  21393 187 255  21394 0 255  21395 38 255  21136 6 255  21146 1 255  21147 2 255  21148 4 255  21149 6 255  21150 10 255  21151 20 255  21152 24 255  21159 8 255  21161 12 255  21163 48 255  21165 56 255  21167 68 255  21760 12 255  21761 24 255  21762 0 255  21763 31 255  21764 0 255  21765 63 255  21888 2 255  17415 3 255  20480 207 255  20736 4 255  20737 12 255  20738 3 255  20739 6 255  20740 12 255  20741 4 255  20742 0 255  20743 0 255  20744 4 255  20745 12 255  20746 3 255  20747 6 255  20748 9 255  20749 4 255  20750 0 255  20751 0 255  20752 4 255  20753 12 255  20754 3 255  20755 6 255  20756 8 255  20757 4 255  20758 0 255  20759 0 255  20485 204 255  20864 255 255  20865 88 255  20866 0 255  20867 4 255  20868 37 255  20869 36 255  20870 25 255  20871 22 255  20872 22 255  20873 108 255  20874 84 255  20875 132 255  20876 138 255  20877 66 255  20878 42 255  20879 84 255  20880 60 255  20881 248 255  20882 4 255  20883 112 255  20884 240 255  20885 240 255  20886 3 255  20887 1 255  20888 5 255  20889 35 255  20890 4 255  20891 0 255  20892 6 255  20893 4 255  14856 14 255  14857 160 255  14862 6 255  14858 12 255  14859 48 255  14861 8 255  14337 161 255  12290 12 255  12290 0 255  17418 1 255  18195 1 255  17931 55 255  17932 34 255  18204 64 255  18205 5 255  17920 160 255  14357 4 255  20511 0 255  20482 224 255  17152 48 255  14360 232 255  14352 194 255  12288 96 255  12289 0 255  12291 0 255  20480 207 255  12296 66 255  12303 10 255  12304 80 255  12305 11 255  14348 9 255  14349 46 255  14357 1 255  17932 34 255  14856 2 255  14857 240 255  14862 33 255  14858 2 255  14859 112 255  14861 40 255  14082 12 255  14083 39 255  14084 40 255  14337 161 255  12296 2 255  17932 36 255  20481 131 255  21888 2 255  21891 80 255  21892 80 255  13578 0 255  13579 0 255  } 
+}
+Attr<Vec3uiVector> { 
+Name "CmosCameraRegistersV0232"
+Value { 12547 3 255  12296 130 255  12332 3 255  12311 127 255  12312 252 255  14352 194 255  14358 0 255  12288 96 255  12289 0 255  12290 15 255  12291 0 255  13842 138 255  13843 131 255  13844 10 255  13858 56 255  13873 6 255  13874 83 255  12303 10 255  12304 80 255  12305 11 255  13824 68 255  13857 48 255  13859 9 255  14348 9 255  14349 46 255  14849 3 255  14082 12 255  14083 39 255  14084 40 255  14085 218 255  14086 66 255  14336 0 255  14337 161 255  14339 12 255  14863 64 255  14864 48 255  14875 64 255  14878 48 255  14865 160 255  14879 32 255  14874 3 255  14894 0 255  14895 97 255  14896 95 255  14848 124 255  12292 255 255  13571 0 255  13825 76 255  13828 56 255  16384 1 255  16385 64 255  16386 0 255  16387 128 255  16390 0 255  16391 24 255  20480 207 255  20512 4 255  20866 0 255  20887 1 255  21760 12 255  21762 0 255  21763 31 255  21764 0 255  21765 63 255  20608 8 255  21136 6 255  21146 1 255  21147 2 255  21148 4 255  21149 6 255  21150 10 255  21151 20 255  21152 24 255  21159 8 255  21161 12 255  21163 48 255  21165 56 255  21167 68 255  21253 32 255  21254 2 255  21255 0 255  21262 12 255  21264 24 255  21267 24 255  21268 12 255  21269 32 255  21270 15 255  21271 6 255  21506 60 255  21507 0 255  21512 0 255  21513 224 255  21514 56 255  21515 0 255  21535 58 255  21536 152 255  21539 58 255  21540 152 255  21632 12 255  21633 22 255  21634 42 255  21635 78 255  21636 97 255  21637 111 255  21638 123 255  21639 134 255  21640 142 255  21641 151 255  21642 164 255  21643 175 255  21644 197 255  21645 215 255  21646 232 255  21647 16 255  21648 4 255  21649 48 255  21650 7 255  21651 112 255  21652 6 255  21653 192 255  21654 4 255  21655 224 255  21656 4 255  21657 0 255  21658 3 255  21659 64 255  21660 2 255  21661 224 255  21662 2 255  21663 160 255  21664 2 255  21665 128 255  21666 2 255  21667 96 255  21668 2 255  21669 16 255  21670 1 255  21671 208 255  21672 1 255  21673 64 255  21674 0 255  21675 240 255  21676 0 255  21677 192 255  21678 0 255  21679 42 255  21686 0 255  21683 16 255  21376 1 255  21377 0 255  21378 0 255  21379 22 255  21380 0 255  21381 7 255  21382 0 255  21383 0 255  21384 1 255  21385 22 255  21386 0 255  21387 60 255  21388 0 255  21389 0 255  21390 0 255  21391 4 255  21392 0 255  21393 187 255  21394 0 255  21395 38 255  12302 24 255  17936 0 255  18205 5 255  18184 6 255  14344 8 255  14345 0 255  14346 6 255  14347 0 255  17152 48 255  18205 0 255  14360 152 255  18195 1 255  18204 80 255  17931 53 255  17932 38 255  14357 68 255  13860 0 255  13872 36 255  13875 3 255  15361 180 255  15360 0 255  15364 40 255  15365 152 255  15366 0 255  15367 8 255  15368 0 255  15369 28 255  12301 2 255  15370 78 255  15371 31 255  14850 0 255  14851 97 255  14852 95 255  14848 124 255  14872 0 255  14873 124 255  14863 64 255  14864 48 255  14875 64 255  14878 48 255  14865 160 255  14879 32 255  14874 3 255  21506 60 255  21632 12 255  21633 22 255  21634 42 255  21635 78 255  21636 97 255  21637 111 255  21638 123 255  21639 134 255  21640 142 255  21641 151 255  21642 164 255  21643 175 255  21644 197 255  21645 215 255  21646 232 255  21647 16 255  21648 4 255  21649 48 255  21650 7 255  21651 112 255  21652 6 255  21653 192 255  21654 4 255  21655 224 255  21656 4 255  21657 0 255  21658 3 255  21659 64 255  21660 2 255  21661 224 255  21662 2 255  21663 160 255  21664 2 255  21665 128 255  21666 2 255  21667 96 255  21668 2 255  21669 16 255  21670 1 255  21671 208 255  21672 1 255  21673 64 255  21674 0 255  21675 240 255  21676 0 255  21677 192 255  21678 0 255  21679 42 255  21376 1 255  21377 0 255  21378 0 255  21379 22 255  21380 0 255  21381 7 255  21382 0 255  21383 0 255  21384 1 255  21385 22 255  21386 0 255  21387 60 255  21388 0 255  21389 0 255  21390 0 255  21391 4 255  21392 0 255  21393 187 255  21394 0 255  21395 38 255  21136 6 255  21146 1 255  21147 2 255  21148 4 255  21149 6 255  21150 10 255  21151 20 255  21152 24 255  21159 8 255  21161 12 255  21163 48 255  21165 56 255  21167 68 255  21760 12 255  21761 24 255  21762 0 255  21763 31 255  21764 0 255  21765 63 255  21888 2 255  17415 3 255  20480 207 255  20736 4 255  20737 12 255  20738 3 255  20739 6 255  20740 16 255  20741 4 255  20742 0 255  20743 0 255  20744 4 255  20745 12 255  20746 3 255  20747 6 255  20748 13 255  20749 4 255  20750 0 255  20751 0 255  20752 4 255  20753 12 255  20754 3 255  20755 6 255  20756 12 255  20757 4 255  20758 0 255  20759 0 255  20485 204 255  20864 255 255  20865 88 255  20866 0 255  20867 4 255  20868 37 255  20869 36 255  20870 21 255  20871 23 255  20872 24 255  20873 96 255  20874 90 255  20875 132 255  20876 139 255  20877 63 255  20878 49 255  20879 95 255  20880 69 255  20881 248 255  20882 4 255  20883 112 255  20884 240 255  20885 240 255  20886 3 255  20887 1 255  20888 5 255  20889 240 255  20890 4 255  20891 0 255  20892 4 255  20893 125 255  20894 0 255  14856 14 255  14857 160 255  14862 6 255  14858 12 255  14859 48 255  14861 8 255  14337 161 255  12290 12 255  12290 0 255  17418 1 255  18195 1 255  17931 55 255  17932 34 255  18204 64 255  18205 5 255  17920 160 255  14357 4 255  20511 0 255  20482 224 255  17152 48 255  14360 232 255  14352 194 255  12288 96 255  12289 0 255  12291 0 255  20480 207 255  12296 66 255  12303 10 255  12304 80 255  12305 11 255  14348 9 255  14349 46 255  14357 1 255  17932 34 255  14856 2 255  14857 240 255  14862 33 255  14858 2 255  14859 112 255  14861 40 255  14082 12 255  14083 39 255  14084 40 255  14337 161 255  12296 2 255  17932 36 255  20481 131 255  21888 2 255  21891 80 255  21892 80 255  13578 0 255  13579 0 255  } 
+}
+Attr<Vec3uiVector> { 
+Name "CmosCameraRegisters_8825"
+Value { 259 1 255  12288 22 255  12289 0 255  12290 108 255  12291 206 255  12292 191 255  12293 16 255  12294 0 255  12295 59 255  12301 0 255  12319 9 255  12320 129 255  12304 0 255  12305 2 255  12306 128 255  12307 57 255  12312 0 255  12548 32 255  12550 21 255  13056 0 255  13568 0 255  13569 154 255  13570 160 255  13571 7 255  13577 0 255  13578 0 255  13579 0 255  13824 6 255  13825 52 255  13826 66 255  13827 92 255  13828 152 255  13829 245 255  13833 180 255  13834 124 255  13835 201 255  13836 11 255  13842 0 255  13843 2 255  13844 15 255  13845 0 255  13846 3 255  13847 161 255  13848 0 255  13849 0 255  13850 0 255  13851 0 255  14080 16 255  14081 68 255  14082 40 255  14083 108 255  14084 64 255  14085 25 255  14086 39 255  14087 99 255  14088 72 255  14089 32 255  14090 49 255  14091 1 255  14092 80 255  14093 0 255  14094 0 255  14097 7 255  14098 78 255  14116 0 255  14117 212 255  14118 0 255  14119 240 255  14336 0 255  14337 0 255  14338 0 255  14339 0 255  14340 12 255  14341 223 255  14342 9 255  14343 155 255  14344 12 255  14345 192 255  14346 9 255  14347 144 255  14348 48 255  14349 0 255  14350 15 255  14351 176 255  14352 0 255  14353 16 255  14354 0 255  14355 6 255  14356 17 255  14357 17 255  14358 2 255  14359 64 255  14360 0 255  14361 64 255  14368 128 255  14369 22 255  15135 0 255  15616 0 255  15617 0 255  15618 0 255  15619 0 255  15620 0 255  15621 0 255  15622 0 255  15623 0 255  15624 0 255  15625 0 255  15626 0 255  15627 0 255  15628 0 255  15629 0 255  15630 0 255  15631 0 255  15632 0 255  15633 0 255  15634 0 255  15635 0 255  15636 0 255  15637 0 255  15638 0 255  15639 0 255  15640 0 255  15641 0 255  15642 0 255  15643 0 255  15644 0 255  15645 0 255  15646 0 255  15647 0 255  15744 0 255  15745 0 255  15748 0 255  16128 2 255  16129 252 255  16133 16 255  16134 0 255  16135 0 255  16384 41 255  16385 2 255  16386 69 255  16387 8 255  16388 4 255  16389 24 255  16393 0 255  16462 55 255  16463 143 255  17152 255 255  17155 0 255  17156 8 255  17159 0 255  17920 4 255  17921 0 255  17922 32 255  18432 4 255  18433 15 255  18487 30 255  18499 2 255  20480 134 255  20481 0 255  20482 0 255  20517 16 255  20545 4 255  20584 0 255  20586 0 255  20511 0 255  22144 0 255  22145 0 255  22146 0 255  22147 0 255  22148 12 255  22149 192 255  22150 9 255  22151 144 255  22152 3 255  22400 252 255  23552 128 255  23553 0 255  23554 0 255  23555 0 255  23556 0 255  23557 0 255  23558 0 255  23559 128 255  23560 16 255  26368 5 255  26369 25 255  26370 253 255  26371 215 255  26372 255 255  26373 255 255  26374 120 255  26624 16 255  26625 2 255  26626 144 255  26627 16 255  26628 89 255  26880 96 255  26881 4 255  22528 63 255  22529 13 255  22530 20 255  22531 12 255  22532 22 255  22533 63 255  22534 10 255  22535 13 255  22536 7 255  22537 5 255  22538 6 255  22539 12 255  22540 17 255  22541 8 255  22542 3 255  22543 1 255  22544 2 255  22545 10 255  22546 13 255  22547 6 255  22548 2 255  22549 1 255  22550 1 255  22551 10 255  22552 8 255  22553 11 255  22554 8 255  22555 6 255  22556 8 255  22557 13 255  22558 63 255  22559 11 255  22560 19 255  22561 14 255  22562 18 255  22563 59 255  22564 128 255  22565 36 255  22566 66 255  22567 36 255  22568 2 255  22569 34 255  22570 36 255  22571 36 255  22572 34 255  22573 66 255  22574 34 255  22575 36 255  22576 68 255  22577 68 255  22578 34 255  22579 4 255  22580 36 255  22581 68 255  22582 36 255  22583 66 255  22584 132 255  22585 36 255  22586 36 255  22587 64 255  22588 100 255  22589 204 255  22594 0 255  22595 239 255  22596 1 255  22597 63 255  22598 1 255  22599 63 255  22600 0 255  22601 213 255  } 
+}
+Attr<Vec3uiVector> { 
+Name "CmosRegistersHighFramerate"
+Value { 12304 0 255  12305 6 255  14349 4 255  14357 2 255  17932 34 255  14856 9 255  14857 192 255  14862 10 255  14858 8 255  14859 32 255  14861 12 255  14850 1 255  14851 133 255  14852 124 255  14894 1 255  14895 133 255  14896 124 255  } 
+}
+Attr<Vec3uiVector> { 
+Name "CmosRegistersNormalFramerate"
+Value { 12304 80 255  12305 11 255  14349 46 255  14357 1 255  17932 36 255  14856 2 255  14857 240 255  14862 33 255  14858 2 255  14859 112 255  14861 40 255  14850 0 255  14851 97 255  14852 95 255  14894 0 255  14895 97 255  14896 95 255  } 
+}
+Attr<int> { 
+Name "CmosObjectiveType"
+}
+Attr<double> { 
+Name "TecCurrent"
+}
+Attr<double> { 
+Name "MaxTecCurrent"
+}
+Attr<double> { 
+Name "LdCurrent"
+}
+Attr<double> { 
+Name "MaxLdCurrent"
+}
+Attr<double> { 
+Name "LaserPower"
+Value 0.02
+}
+Attr<double> { 
+Name "MinLdTemp"
+}
+Attr<double> { 
+Name "LdTemp"
+}
+Attr<double> { 
+Name "MaxLdTemp"
+}
+Attr<int> { 
+Name "LaserActiveTime"
+}
+Attr<int> { 
+Name "NumberOfScans"
+}
+Attr<int> { 
+Name "ReferencePartAnalyzer_DistOutlierLimit"
+Value 400
+}
+Attr<double> { 
+Name "ReferenceMeasures_DistOutlierLimit"
+Value 0.2
+}
+Attr<int> { 
+Name "ReferenceMeasures_FinePhaseNoiseLimit"
+Value 400
+}
+Attr<int> { 
+Name "finePhase1FEdgeShift"
+Value 8
+}
+Attr<int> { 
+Name "finePhase2FEdgeShift"
+Value 8
+}
+Attr<double> { 
+Name "APDControlPar0"
+Value 135.820007324
+}
+Attr<double> { 
+Name "APDControlPar1"
+Value 1.549999952
+}
+Attr<double> { 
+Name "APDControlPar2"
+}
+Attr<int> { 
+Name "APDControlP"
+Value 20
+}
+Attr<int> { 
+Name "APDControlI"
+Value 1000
+}
+Attr<int> { 
+Name "APDControlType"
+Value 1
+}
+Attr<double> { 
+Name "APDControlUMax"
+Value 70
+}
+Attr<int> { 
+Name "RxVgaAmp"
+Value 4095
+}
+Attr<int> { 
+Name "RxLogAmpScaleFine"
+Value 919
+}
+Attr<int> { 
+Name "RxLogAmpScaleCoarse"
+Value 975
+}
+Attr<int> { 
+Name "DataIntensityFactorFine"
+Value 1200
+}
+Attr<int> { 
+Name "DataIntensityOffsetFine"
+Value 1400
+}
+Attr<int> { 
+Name "DataIntensityFactorCoarse"
+}
+Attr<int> { 
+Name "DataIntensityOffsetCoarse"
+}
+Attr<double> { 
+Name "FpgaSamplingFrequency"
+Value 54687500
+}
+Attr<int> { 
+Name "EncSyncObservationSize"
+Value 100
+}
+Attr<int> { 
+Name "EncSyncIntervalTolerance01"
+Value 5
+}
+Attr<int> { 
+Name "EncSyncIntervalTolerance04"
+Value 5
+}
+Attr<int> { 
+Name "EncSyncIntervalTolerance16"
+Value 5
+}
+Attr<int> { 
+Name "EncSyncIntervalTolerance64"
+Value 5
+}
+Attr<int> { 
+Name "AutomationInterfaceMode"
+}
+Attr<int> { 
+Name "HousingOpenPinBypass"
+}
+Attr<bool> { 
+Name "FarDistancesProfileEnabled"
+}
+Attr<bool> { 
+Name "NearDistancesProfileEnabled"
+}
+Attr<double> { 
+Name "ApdHvNearDistances"
+Value 57.25
+}
+Attr<double> { 
+Name "LaserPowerNearDistances"
+Value 0.501
+}
+Attr<double> { 
+Name "ApdHvFarDistances"
+Value 58.75
+}
+Attr<double> { 
+Name "LaserPowerFarDistances"
+Value 0.501
+}
+Attr<double> { 
+Name "LaserPowerLowPower"
+Value 0.25
+}
+Attr<double> { 
+Name "ApdHvOutOCT"
+Value 57.25
+}
+Attr<double> { 
+Name "LaserPowerOutOCT"
+Value 0.501
+}
+Attr<double> { 
+Name "calibTimeOCT"
+Value 1491564234
+}
+Attr<double> { 
+Name "ApdHvInSAT"
+Value 58.25
+}
+Attr<double> { 
+Name "LaserPowerInSAT"
+Value 0.501
+}
+Attr<double> { 
+Name "calibTimeSAT"
+Value 1490856013.606281996
+}
+Attr<double> { 
+Name "octCorrectionSAT"
+Value 1
+}
+Attr<bool> { 
+Name "PhaseCutEnabled"
+}
+Attr<int> { 
+Name "PhaseCutNormalProfile"
+Value 3
+}
+Attr<int> { 
+Name "PhaseCutNearProfile"
+Value 3
+}
+Attr<bool> { 
+Name "DistanceCutEnabled"
+Value true
+}
+Attr<bool> { 
+Name "FPGADistanceCutEnabled"
+}
+Attr<int> { 
+Name "TxDaLdPower"
+Value 1023
+}
+Attr<int> { 
+Name "TxDa15MHz"
+}
+Attr<int> { 
+Name "TxDa13MHz"
+}
+Attr<int> { 
+Name "TxDa125MHz"
+}
+Attr<int> { 
+Name "TxDaMod"
+Value 1016
+}
+Attr<int> { 
+Name "TxDaIBMax"
+Value 1001
+}
+Attr<int> { 
+Name "TxDaModTC"
+}
+Attr<double> { 
+Name "TxDaBinToCurrent"
+Value 148.51499939
+}
+Attr<int> { 
+Name "NumGreyBits"
+Value 11
+}
+Attr<double> { 
+Name "DistOffset"
+Value 0.04771177
+}
+Attr<double> { 
+Name "DistCalibAngle"
+}
+Attr<double> { 
+Name "DistCalibLength"
+}
+Attr<double> { 
+Name "AddtlAmplOffset"
+}
+Attr<double> { 
+Name "AddtlAmplFactor"
+Value 1
+}
+Attr<double> { 
+Name "AdConvMin"
+}
+Attr<double> { 
+Name "AdConvMax"
+Value 2048
+}
+Attr<double> { 
+Name "LogAmplDefOutput"
+Value -2216.239756447
+}
+Attr<double> { 
+Name "LogAmplDefInput"
+Value 1
+}
+Attr<double> { 
+Name "LogAmplFactor"
+Value 24.859287221
+}
+Attr<double> { 
+Name "MinLambda"
+Value 1.199169755
+}
+Attr<Vec2ddVector> { 
+Name "DeltaDistTable"
+Value { 0 0 0.4 0.0013 0.6 0.0019 0.8 0.0003 1 0.0003 1.2 0.0007 1.4 0.0002 1.6 0.0005 1.8 0.0005 2 0.0001 2.2 0.0006 2.4 0.0003 2.6 -0.0001 2.8 0.0007 3 0.0003 3.2 0.0002 3.4 0.0003 3.6 0 3.8 0.0005 4 0.0002 5 0.0003 6 0.0003 7 0.0002 8 0.0002 9 0.0001 10 0.0002 11 0.0001 12 0.0001 13 0 14 0.0001 15 -0.0001 16 -0.0001 17 -0.0002 18 -0.0001 20 -0.0002 22 0 24 0 26 0 28 0 30 0 32 0 34 0 36 0 40 0 44 0 48 0 } 
+}
+Attr<bool> { 
+Name "ReflDeltaDistLogarithmic"
+Value true
+}
+Attr<Vec2ddVector> { 
+Name "ReflDeltaDistTable"
+Value { 0 0 2100 0 } 
+}
+Attr<double> { 
+Name "DistConstCalibAngle2"
+Value 5.843
+}
+Attr<double> { 
+Name "DistConstCalibLength2"
+Value 6.79e-05
+}
+Attr<double> { 
+Name "DistConstCalibAngle1"
+}
+Attr<double> { 
+Name "DistConstCalibLength1"
+}
+Attr<double> { 
+Name "HorLaserAdjustment"
+Value -0.00074865654
+}
+Attr<double> { 
+Name "VertLaserAdjustment"
+Value -0.0021750714
+}
+Attr<SVec3us> { 
+Name "RawDistDelay"
+}
+Attr<int> { 
+Name "HardwareFilterThreshold"
+Value 60
+}
+Attr<int> { 
+Name "FPGAOperationMode"
+Value 3
+}
+Attr<int> { 
+Name "EdgeFilterThresholdFineMiddle"
+Value 2000
+}
+Attr<int> { 
+Name "EdgeFilterThresholdMiddleCoarse"
+Value 131071
+}
+Attr<int> { 
+Name "EdgeFilterThresholdGreyValue"
+Value 9600
+}
+Attr<int> { 
+Name "SensorGenericByte1"
+}
+Attr<int> { 
+Name "SensorGenericByte2"
+}
+Attr<int> { 
+Name "SensorGenericWord1"
+}
+Attr<int> { 
+Name "SensorGenericWord2"
+}
+Attr<int> { 
+Name "CalibFlags"
+Value 1
+}
+Attr<double> { 
+Name "DistBaseReflDeltaDist"
+}
+Attr<double> { 
+Name "TempBaseReflDeltaDist"
+}
+Attr<double> { 
+Name "ReflBaseReflDeltaDist"
+}
+Attr<double> { 
+Name "TempFactorReflDeltaDist"
+}
+Attr<double> { 
+Name "ReflFactorReflDeltaDist"
+}
+Attr<double> { 
+Name "APDTemperatureStart"
+Value 34.44
+}
+Attr<double> { 
+Name "APDTemperatureFinish"
+Value 34.5
+}
+Attr<int> { 
+Name "SensorFpgaRevision"
+Value 752
+}
+Attr<int> { 
+Name "SensorFpgaSpeedGrade"
+}
+Attr<bool> { 
+Name "ReflDeltaDistPhaseLogarithmic"
+Value true
+}
+Attr<Vec2ddVector> { 
+Name "ReflDeltaDistPhase1"
+Value { 0 0 1300 0 1400 0.0003656247049027 1500 0.0002286204678316 1600 0.0003027254747462 1650 0.0004108963419294 1700 0.0002449418373241 1750 2.123063340869e-05 1800 -6.058450231833e-05 1850 -0.0001546326512566 1900 -0.0005850769790516 1905 -0.0005330196580583 1910 -0.0005667022943752 1915 -0.0005748907405515 1920 -0.0006510964908794 1925 -0.0006738070603056 1930 -0.0007427319868654 1935 -0.0008149315645748 1940 -0.0008663429101826 1945 -0.0009603357510227 1950 -0.001006882657049 1955 -0.001117299565872 1960 -0.001186116465495 1965 -0.001269686845775 1970 -0.001350012607582 1975 -0.001463879992652 1980 -0.001561528307844 1985 -0.001693475545848 1990 -0.001825451499982 1995 -0.001941688803539 2000 -0.002039482699102 2005 -0.002153118721841 2010 -0.002262190324555 2015 -0.00234681947819 2020 -0.002443935812099 2025 -0.002572833739575 2030 -0.002693966135841 2035 -0.002804118577912 2040 -0.002886185089943 2046 -0.003052726054573 } 
+}
+Attr<Vec2ddVector> { 
+Name "ReflDeltaDistPhase2"
+Value { 0 0.00057 100 0.00057 200 0.00057 300 0.00057 400 0.00057 800 0.00057 1200 0.00124 1400 0.00096 1600 0.00039 1700 0.00124 1800 0.00308 1900 0.00374 1924 -0.00094 2100 -0.00094 } 
+}
+Attr<Vec2ddVector> { 
+Name "ReflDeltaDistPhase3"
+Value { 0 0.00048 100 0.00048 200 0.00048 300 0.00048 400 0.00048 800 0.00048 1200 -0.0003 1400 -0.00117 1600 -0.00117 1700 -0.00104 1800 0.00103 1900 0.00183 1924 -0.00181 2100 -0.00181 } 
+}
+Attr<Vec2ddVector> { 
+Name "ReflDeltaDistPhase4"
+Value { 0 0.37284 100 0.37284 200 0.37284 300 0.37284 400 0.37284 800 0.37284 1200 0.12095 1400 0.07264 1600 0.05308 1700 0.03316 1800 0.01645 1900 -0.02893 1924 -0.09406 2100 -0.09406 } 
+}
+Attr<Vec2ddVector> { 
+Name "ReflDeltaDistPhase5"
+Value { 0 0.41506 100 0.41506 200 0.41506 300 0.41506 400 0.41506 800 0.41506 1200 0.25623 1400 0.18153 1600 0.10288 1700 0.01354 1800 -0.06428 1900 -0.29443 1924 -0.26016 2100 -0.26016 } 
+}
+Attr<Vec2ddVector> { 
+Name "ReflDeltaDistPhase6"
+Value { 0 1.02442 100 1.02442 200 1.02442 300 1.02442 400 1.02442 800 1.02442 1200 0.67002 1400 0.48348 1600 0.28303 1700 -0.03332 1800 -0.33576 1900 -1.02849 1924 -1.07532 2100 -1.07532 } 
+}
+Attr<int> { 
+Name "ReflBrightThreshold"
+Value 2046
+}
+Attr<Vec2ddVector> { 
+Name "ReflStatsMean"
+Value { 0 0 1300 0 1400 0.0003948756090565 1500 0.0003953446409648 1600 0.0001084331514708 1650 -0.0001270575593002 1700 -0.0001664508938419 1750 -0.0001400987105012 1800 -0.0001173788057793 1850 -0.0001403287849643 1900 4.658453236482e-05 1905 0.0001416108587243 1910 0.0001508972277735 1915 0.0001856777869634 1920 0.0001524410420015 1925 0.0001726994779416 1930 0.0001467435567479 1935 0.0001175129844046 1940 0.0001101149768331 1945 6.013547402944e-05 1950 5.760190603987e-05 1955 -8.801664747644e-06 1960 -3.360522633431e-05 1965 -7.31622685776e-05 1970 -0.0001094746923483 1975 -0.0001452944762763 1980 -0.0001648951903268 1985 -0.0002187948271896 1990 -0.0002727231801819 1995 -0.0003109128825974 2000 -0.0003306591770192 2005 -0.0003940538802071 2010 -0.000452884163369 2015 -0.0004986761496627 2020 -0.0005569553162305 2025 -0.0006050181899835 2030 -0.0006453155325266 2035 -0.0006997999684117 2040 -0.000726198474257 2046 -0.0007749909993621 } 
+}
+Attr<Vec2ddVector> { 
+Name "ReflStatsDeviation"
+Value { 0 0 1300 0 1400 0.0004284475694697 1500 0.0003958589234419 1600 0.0005017164529635 1650 0.0005351634775041 1700 0.0005337408397039 1750 0.0005690726664172 1800 0.0005800659365283 1850 0.0006385194746397 1900 0.0005779893420363 1905 0.0005246695039671 1910 0.0005115720849051 1915 0.0005010964088312 1920 0.0004935364210022 1925 0.0004919141516306 1930 0.0004890466078248 1935 0.0004873053122105 1940 0.0004859526406336 1945 0.0004876375738704 1950 0.0004762130789361 1955 0.0004683456491317 1960 0.0004702281541092 1965 0.0004551429190433 1970 0.00044721770776 1975 0.000433012257375 1980 0.0004211676838243 1985 0.000425749188066 1990 0.0004330306093913 1995 0.0004252218105425 2000 0.0004180056601746 2005 0.0004130356054042 2010 0.0004191552587803 2015 0.000402787838378 2020 0.0003866054335779 2025 0.0003934294279564 2030 0.0003882027787285 2035 0.0003842756510648 2040 0.0003627681726169 2046 0.000353058334077 } 
+}
+Attr<Vec2ddVector> { 
+Name "ReflDeltaDistPhase1Far"
+Value { 0 0 1300 0 1400 0.0006381050618063 1500 0.0005975007147618 1600 0.0007294796356117 1650 0.0007024199925221 1700 0.0004294267257924 1750 0.0002748246863429 1800 2.97137532452e-05 1850 -0.0002888685870314 1900 -0.0007507160786506 1935 -0.000886217901637 1970 -0.001205390022853 2000 -0.001620208174187 2010 -0.001815986716201 2020 -0.001997867224414 2030 -0.002100913908178 2040 -0.00154548555866 2045 -0.001274878311208 2100 0.02040969904535 } 
+}
+Attr<Vec2ddVector> { 
+Name "ReflDeltaDistPhase2Far"
+}
+Attr<Vec2ddVector> { 
+Name "ReflDeltaDistPhase3Far"
+}
+Attr<Vec2ddVector> { 
+Name "ReflDeltaDistPhase4Far"
+}
+Attr<Vec2ddVector> { 
+Name "ReflDeltaDistPhase5Far"
+}
+Attr<Vec2ddVector> { 
+Name "ReflDeltaDistPhase6Far"
+}
+Attr<int> { 
+Name "ReflBrightThresholdFar"
+Value 2044
+}
+Attr<Vec2ddVector> { 
+Name "ReflDeltaDistPhase1Active"
+Value { 0 0 1300 0 1400 0.0003656247049027 1500 0.0002286204678316 1600 0.0003027254747462 1650 0.0004108963419294 1700 0.0002449418373241 1750 2.123063340869e-05 1800 -6.058450231833e-05 1850 -0.0001546326512566 1900 -0.0005850769790516 1905 -0.0005330196580583 1910 -0.0005667022943752 1915 -0.0005748907405515 1920 -0.0006510964908794 1925 -0.0006738070603056 1930 -0.0007427319868654 1935 -0.0008149315645748 1940 -0.0008663429101826 1945 -0.0009603357510227 1950 -0.001006882657049 1955 -0.001117299565872 1960 -0.001186116465495 1965 -0.001269686845775 1970 -0.001350012607582 1975 -0.001463879992652 1980 -0.001561528307844 1985 -0.001693475545848 1990 -0.001825451499982 1995 -0.001941688803539 2000 -0.002039482699102 2005 -0.002153118721841 2010 -0.002262190324555 2015 -0.00234681947819 2020 -0.002443935812099 2025 -0.002572833739575 2030 -0.002693966135841 2035 -0.002804118577912 2040 -0.002886185089943 2046 -0.003052726054573 } 
+}
+Attr<Vec2ddVector> { 
+Name "ReflDeltaDistPhase2Active"
+Value { 0 0.00057 100 0.00057 200 0.00057 300 0.00057 400 0.00057 800 0.00057 1200 0.00124 1400 0.00096 1600 0.00039 1700 0.00124 1800 0.00308 1900 0.00374 1924 -0.00094 2100 -0.00094 } 
+}
+Attr<Vec2ddVector> { 
+Name "ReflDeltaDistPhase3Active"
+Value { 0 0.00048 100 0.00048 200 0.00048 300 0.00048 400 0.00048 800 0.00048 1200 -0.0003 1400 -0.00117 1600 -0.00117 1700 -0.00104 1800 0.00103 1900 0.00183 1924 -0.00181 2100 -0.00181 } 
+}
+Attr<Vec2ddVector> { 
+Name "ReflDeltaDistPhase4Active"
+Value { 0 0.37284 100 0.37284 200 0.37284 300 0.37284 400 0.37284 800 0.37284 1200 0.12095 1400 0.07264 1600 0.05308 1700 0.03316 1800 0.01645 1900 -0.02893 1924 -0.09406 2100 -0.09406 } 
+}
+Attr<Vec2ddVector> { 
+Name "ReflDeltaDistPhase5Active"
+Value { 0 0.41506 100 0.41506 200 0.41506 300 0.41506 400 0.41506 800 0.41506 1200 0.25623 1400 0.18153 1600 0.10288 1700 0.01354 1800 -0.06428 1900 -0.29443 1924 -0.26016 2100 -0.26016 } 
+}
+Attr<Vec2ddVector> { 
+Name "ReflDeltaDistPhaseActive"
+Value { 0 1.02442 100 1.02442 200 1.02442 300 1.02442 400 1.02442 800 1.02442 1200 0.67002 1400 0.48348 1600 0.28303 1700 -0.03332 1800 -0.33576 1900 -1.02849 1924 -1.07532 2100 -1.07532 } 
+}
+Attr<int> { 
+Name "ReflBrightThresholdActive"
+Value 2046
+}
+Attr<int> { 
+Name "MedianFilter"
+Value 1
+}
+Attr<DVector> { 
+Name "DistDeltaComp"
+}
+Attr<uint16_t> { 
+Name "ReferenceIntensityAverage"
+Value 1695
+}
+Attr<uint16_t> { 
+Name "ReferenceIntensityAverageLowPower"
+Value 1304
+}
+Attr<UInt32Vector> { 
+Name "DualReferencePositions"
+Value { 77824 0 } 
+}
+Attr<int> { 
+Name "DualReferenceEnabled"
+}
+Attr<int> { 
+Name "DualReferenceOffset"
+}
+Attr<int> { 
+Name "PhaseReferenceStart"
+Value 79872
+}
+Attr<bool> { 
+Name "OpticalCrosstalkCompensationDisable"
+}
+Attr<DVector> { 
+Name "OpticalCrosstalkCompensationScaleFactorsLowerFillRe"
+Value { 1 -1.476240722 1.911870528 0.74698194 -1.914084885 1.68066726 } 
+}
+Attr<DVector> { 
+Name "OpticalCrosstalkCompensationScaleFactorsLowerFillIm"
+Value { 0 -1.312619887 0.58989037 1.921317155 0.50589395 0.76126524 } 
+}
+Attr<DVector> { 
+Name "OpticalCrosstalkCompensationScaleFactorsHigherFillRe"
+Value { 1 1 1 1 1 1 } 
+}
+Attr<DVector> { 
+Name "OpticalCrosstalkCompensationScaleFactorsHigherFillIm"
+Value { 0 0 0 0 0 0 } 
+}
+Attr<DVector> { 
+Name "OpticalCrosstalkCompensationScaleFactorsLowerFillNoLongRe"
+Value { 1 0.93946238 0.49503271 -0.85933068 0.31794911 0 } 
+}
+Attr<DVector> { 
+Name "OpticalCrosstalkCompensationScaleFactorsLowerFillNoLongIm"
+Value { 0 0.32897945 -0.87501127 -0.28422204 0.96215657 0 } 
+}
+Attr<DVector> { 
+Name "OpticalCrosstalkCompensationScaleFactorsHigherFillNoLongRe"
+Value { 1 1.464149755 2.009183435 -0.080193002 -0.73087291 0 } 
+}
+Attr<DVector> { 
+Name "OpticalCrosstalkCompensationScaleFactorsHigherFillNoLongIm"
+Value { 0 -1.316894796 0.023421994 -2.004917667 1.889944401 0 } 
+}
+Attr<IntVector> { 
+Name "OpticalCrosstalkCompensationPhase1Re"
+Value { 89593428 71683292 44936408 51748760 77658436 9827116 1135720 162036 56384 39696 37712 38016 37912 35448 35588 30616 30080 28184 25664 22548 19944 15944 14128 11716 11040 6788 8372 6020 7820 5116 5564 2512 3568 3144 2904 2584 3760 2952 1916 1944 1144 1904 2244 908 1076 -376 1720 944 1356 1260 -1216 -644 380 528 268 -416 536 160 800 672 876 888 1564 144 472 -396 696 1516 -388 584 -752 4 76 -2176 -392 1180 620 -556 80 980 528 1488 412 328 1064 500 1824 1800 2720 2740 1684 2880 3736 4624 5072 5516 7024 11340 12180 8556 5496 7756 7092 8932 9560 11508 14552 17596 19380 20436 26296 27028 28896 32192 30296 31260 33324 33972 32924 33272 42376 138676 1182860 8707824 15344036 12221024 23858080 0 } 
+}
+Attr<IntVector> { 
+Name "OpticalCrosstalkCompensationPhase2Re"
+Value { 41469251 33290899 20869714 23820617 36160134 4626230 538479 77246 27357 19689 17496 17800 18138 17249 16795 16091 14672 13023 11836 10615 8392 7770 6024 6515 5170 4393 4367 5136 3212 2519 2700 2377 2307 1797 1109 2554 1434 670 160 1386 1670 564 207 1610 1202 -238 95 166 -168 150 286 129 -791 150 1287 158 398 469 160 696 422 755 192 -560 481 897 -143 -378 -326 -752 18 -154 146 743 -545 -134 350 389 -332 -2630 -2560 -1676 240 -417 1131 815 807 1171 1090 844 945 248 1521 2328 2158 3161 3188 5647 4944 4393 1753 3484 3896 2945 4292 4586 6706 7037 8821 9998 10447 11437 14128 13764 14557 15770 14566 14517 16448 15681 20119 64402 543262 4022684 7113546 5678766 11025792 0 } 
+}
+Attr<IntVector> { 
+Name "OpticalCrosstalkCompensationPhase3Re"
+Value { 65334296 52452685 32854395 37509199 56947994 7287328 847000 121532 42546 30203 28222 27714 27053 26855 25994 23235 23418 20795 19383 17386 14879 11654 11699 9526 8267 7592 7098 5800 5176 3647 4139 2782 4385 2210 2675 3767 1942 2677 2302 1323 1028 2511 2285 1100 1984 663 1388 1204 278 1141 1617 195 862 1199 2364 387 453 878 1052 2214 761 1676 52 1056 1052 2303 1064 2647 306 1562 170 2365 -221 -8 770 2813 562 982 389 1952 1414 2768 746 288 835 1450 3400 648 1728 1120 3284 4617 3969 4368 6232 7578 5785 8841 9058 8123 6362 5463 5982 8215 9494 10542 12462 13486 14996 16683 19822 20816 23470 24337 24157 25175 25511 25852 25037 26464 30097 101168 857216 6346774 11220709 8960851 17408470 0 } 
+}
+Attr<IntVector> { 
+Name "OpticalCrosstalkCompensationPhase4Re"
+Value { -143282 -109327 -65587 -66534 -120133 -14658 107 296 1390 918 1332 987 -64 810 1295 -125 -11 1111 1198 -518 910 349 1958 -282 415 578 -657 -215 2441 1103 448 1301 630 1040 172 1835 355 1620 262 886 618 608 619 699 1509 -33 1071 1543 597 -318 903 601 100 860 1425 341 1605 1224 669 681 319 92 580 1852 357 1753 692 245 746 203 1336 392 1306 593 829 -240 -131 493 650 873 2090 2342 1401 -26 376 1064 283 89 -716 1724 -200 1189 1690 344 377 987 2060 1838 1801 857 -245 1049 1523 2174 590 352 1284 1100 608 875 62 1783 800 639 -498 821 1421 127 1037 -427 737 257 -1375 -12555 -23783 -15552 -27779 0 } 
+}
+Attr<IntVector> { 
+Name "OpticalCrosstalkCompensationPhase5Re"
+Value { 4896373 3921885 2441499 2801757 4257980 536699 63678 8736 2835 3938 1706 2893 1465 1112 2321 802 2489 1104 1562 549 59 721 388 512 244 496 2584 847 -453 185 671 -780 24 149 408 -1264 854 -58 290 -287 607 440 -34 -654 -194 -482 -75 -280 41 253 -866 -559 11 211 -948 -440 -234 -307 642 753 -344 -48 -301 38 758 -291 350 -561 -997 -287 365 -998 -26 470 -324 865 1276 109 -429 381 147 80 117 -122 577 297 150 990 239 -1225 -204 76 1089 -307 376 130 15 95 599 -77 -213 685 991 -153 -47 1054 969 1517 111 1788 1238 1219 388 1022 919 1224 2513 1414 2116 1740 3328 7198 62569 467194 827971 660129 1281123 0 } 
+}
+Attr<IntVector> { 
+Name "OpticalCrosstalkCompensationPhase6Re"
+Value { 17680500 14183909 8887653 10128023 15405659 1974719 229725 34800 10836 7814 9633 9510 8895 8762 8799 8680 7565 7789 7042 5352 3353 5164 6006 3134 3567 3362 2918 3005 2682 3960 2937 2451 2859 1918 2460 1910 2393 1656 1947 3213 3258 1868 2358 2916 3756 1815 3412 3163 3602 2269 1600 3013 983 2723 2401 1354 3260 3276 2371 1900 2054 1903 2738 1270 2915 1838 1751 1783 2535 2906 3378 1787 2787 1672 1464 3287 1932 3463 2692 4424 2415 3508 1792 2049 2094 2672 2389 1565 1862 3291 2129 2833 2869 3401 4035 4115 5298 6051 5003 3746 2793 4069 5418 4261 3020 4637 5905 7463 6334 5570 7374 8036 8324 9065 7852 6419 8344 8984 7763 8052 8870 29168 232617 1719949 3041265 2422137 4712679 0 } 
+}
+Attr<IntVector> { 
+Name "OpticalCrosstalkCompensationPhase1Im"
+Value { -30402060 -24366788 -15305128 -17603492 -26308184 -3355268 -385448 -53536 -17856 -13864 -13984 -9220 -10912 -12896 -10260 -9868 -11196 -9880 -6820 -8096 -7660 -5348 -4688 -4504 -3864 -2304 -2484 -2520 -2032 -1096 -3108 -2548 1300 -1600 -1428 -2896 -2972 -1028 508 284 -1548 172 -1996 564 -1064 -80 -908 -1972 44 -680 -312 -360 -240 472 168 276 -536 -768 -552 -904 600 -132 1056 380 -172 -1060 -128 456 52 -488 180 -752 -396 -356 -28 44 24 -2132 276 -760 -444 -312 -472 -2136 -1632 -528 -444 -196 -2200 -1768 -348 -1296 -1616 -3344 -3068 -1912 -220 -3416 -1960 -240 -6460 -2900 -3676 -2612 -3152 -3252 -2456 -6152 -5484 -8756 -7188 -4748 -8164 -7644 -9068 -8932 -12236 -10276 -9744 -8840 -14848 -46872 -415400 -3056528 -5373084 -4341228 -8468560 0 } 
+}
+Attr<IntVector> { 
+Name "OpticalCrosstalkCompensationPhase2Im"
+Value { -36543122 -29337106 -18370191 -20972403 -31843909 -4074705 -473485 -67814 -23567 -17401 -17122 -15437 -17093 -15737 -15790 -14423 -13829 -12046 -12553 -10065 -8075 -8285 -7701 -6069 -5195 -4828 -5051 -3910 -4244 -3507 -2945 -3077 -2708 -3614 -1828 -3008 -1464 -2051 -2355 -3070 -1677 -1515 -1602 -1562 -1051 -1717 -1586 -1546 -1026 -695 -1123 -876 -1388 -969 -1576 -1312 -482 -1698 -2059 -1761 -1539 -1835 -1526 -1307 -1543 -939 -1187 -717 -412 -1518 -818 -1888 -480 235 -694 -1070 -560 -558 -1490 -1227 -1378 -145 -1437 -971 -849 -2471 -1554 -2352 -1627 -696 -1729 -2390 -4724 -3187 -4587 -3317 -3559 -4488 -5539 -3793 -4647 -3920 -4142 -4627 -5934 -5327 -6046 -8320 -8679 -9735 -11681 -11133 -12772 -12950 -14230 -13150 -15815 -13696 -15013 -15517 -18623 -57561 -479473 -3554832 -6284270 -5020673 -9752169 0 } 
+}
+Attr<IntVector> { 
+Name "OpticalCrosstalkCompensationPhase3Im"
+Value { 19534061 15679259 9838528 11226302 17047835 2181529 254984 37368 12889 9438 9764 9448 9611 9892 7622 6759 8083 6004 6659 6101 5079 4384 3719 4107 2287 1978 2377 2357 290 2712 1769 1710 482 1373 2176 809 2035 585 1848 635 2431 757 386 1208 846 701 635 1038 1798 1101 778 1306 329 53 124 266 384 1614 1094 -98 328 441 1784 899 1589 2550 777 3613 844 2702 390 1208 3200 4846 1109 3469 -191 2995 -118 1240 2422 1299 1495 365 987 861 1151 782 915 2701 2328 624 1094 1425 2026 1982 4528 6277 5982 3179 2748 1595 5602 4533 2927 5627 5314 6827 4935 6269 5080 7697 7185 8064 8157 9948 8331 9939 7660 7669 9834 30386 255375 1888409 3333485 2664413 5161467 0 } 
+}
+Attr<IntVector> { 
+Name "OpticalCrosstalkCompensationPhase4Im"
+Value { 16905204 13579057 8499990 9721321 14736896 1886379 220860 30693 11580 7831 7897 7916 7355 7209 7672 5939 6726 6097 4775 4647 4855 4820 3587 4340 2997 3915 2547 3473 2933 3219 1915 2267 1921 3260 2199 1550 1325 893 2260 1491 1749 1907 1139 2666 1604 1240 1784 1013 2354 2369 2185 1970 1299 1046 2975 1832 1565 431 1947 1860 1717 1389 1474 1955 1329 816 74 1584 758 2386 255 199 1949 2384 253 2268 1525 2542 -2 2584 2768 2085 1184 1610 996 1268 1533 413 1855 3927 2627 1152 1413 1703 2372 3094 2702 5000 5245 2860 3090 2284 3058 3716 3531 3984 5239 6182 5860 4308 5084 8500 5159 8083 6654 6517 7988 8972 6763 7616 9275 27281 221556 1641936 2905255 2318006 4509598 0 } 
+}
+Attr<IntVector> { 
+Name "OpticalCrosstalkCompensationPhase5Im"
+Value { -16482257 -13249796 -8299293 -9458628 -14375738 -1849532 -214787 -33006 -11703 -8654 -7810 -8668 -8197 -6624 -8182 -7988 -7210 -5756 -6761 -5485 -5102 -5363 -4223 -3154 -3729 -3280 -3542 -3440 -2469 -4029 -2154 -2778 -2341 -3286 -3211 -2152 -2456 -3608 -3250 -1696 -3375 -2404 -2842 -1211 -2747 -3464 -1923 -1505 -2318 -2807 -2635 -2001 -2505 -1829 -3761 -1600 -3435 -1819 -1640 -945 -2844 -1773 -1502 -1674 -2052 -2607 -1723 -2095 -1518 -3027 -2057 -1696 -1527 -3442 -2923 -1681 -1851 -3435 -1811 -3240 -3297 -3397 -1135 -2263 -2386 -1885 -2643 -2132 -2328 -3442 -1863 -2526 -2108 -3701 -3027 -2500 -3972 -5685 -5662 -3419 -2794 -3420 -5628 -4837 -3551 -6327 -6553 -5926 -5473 -5850 -6386 -7502 -8446 -7302 -6320 -6458 -8679 -8141 -7014 -6690 -9223 -26434 -216759 -1605574 -2840530 -2267168 -4404845 0 } 
+}
+Attr<IntVector> { 
+Name "OpticalCrosstalkCompensationPhase6Im"
+Value { -4583524 -3702517 -2341824 -2657171 -4009748 -527581 -62032 -8679 -3717 -3508 -2540 -1592 -3349 -2678 -2729 -3077 -2412 -2145 -1599 -1110 -1762 -2406 -1915 -1617 -2679 -2615 -1881 -1263 -1723 -1371 -1309 -2100 -632 -1380 -800 -354 -1151 -2510 -1042 -1393 -164 -224 -917 -1762 -2015 -1566 -994 -2401 -774 -728 -1200 -2177 -711 -373 -1850 -523 -220 -1438 -2394 -1021 -1725 -569 -1639 -1544 -422 -1371 -574 -1760 -188 -2406 -931 -1765 -883 -2313 -487 -1583 -47 -1477 -876 -1905 -1963 -1382 -732 -1435 -2259 1113 -1416 -980 -1939 -2542 -1278 -865 -1634 -447 -2268 -774 -2090 -1865 -1931 -902 -1958 -1169 -2054 -1688 -1245 -2972 -2057 -3143 -2284 -1247 -694 -3614 -1694 -2191 -2602 -2566 -1775 -3359 -2841 -2677 -2328 -7378 -61710 -456846 -806746 -643914 -1252978 0 } 
+}
+Attr<bool> { 
+Name "OpticalCrosstalkCompensationReferenceValid"
+Value true
+}
+Attr<IntVector> { 
+Name "OpticalCrosstalkCompensationReferencePhase1Re"
+Value { 98061736 98061736 98061736 98061736 98061736 98061736 98061736 98026100 98026100 98026100 97770872 97770872 97770872 97770872 98026100 97770872 98061736 98026100 98026100 98026100 98026100 97770872 98061736 98061736 98026100 98061736 97770872 98026100 98061736 98026100 98061736 98026100 97770872 98026100 97770872 98061736 97770872 97770872 98061736 98061736 98026100 98061736 97770872 98026100 98026100 98061736 98061736 98026100 97770872 98026100 98026100 97770872 98061736 97770872 98026100 97770872 97770872 98026100 98061736 98564708 98743736 98743736 98564708 98743736 98490844 98743736 98490844 98300992 98850664 98300992 98850664 98724712 98300992 98300992 98850664 98300992 98850664 98300992 98850664 98300992 98300992 98300992 98850664 98850664 98850664 98850664 98724712 98850664 98850664 98300992 98724712 98724712 98724712 98850664 98724712 98724712 98300992 98300992 98300992 98850664 98724712 98850664 98300992 98300992 98724712 98300992 98300992 98300992 98850664 98850664 98724712 98300992 98724712 98300992 98724712 98850664 98724712 98300992 98850664 98724712 98850664 98724712 98724712 98724712 98724712 98724712 98724712 0 } 
+}
+Attr<IntVector> { 
+Name "OpticalCrosstalkCompensationReferencePhase2Re"
+Value { 45680340 45680340 45680340 45680340 45680340 45680340 45680340 45654048 45654048 45654048 45564761 45564761 45564761 45564761 45654048 45564761 45680340 45654048 45654048 45654048 45654048 45564761 45680340 45680340 45654048 45680340 45564761 45654048 45680340 45654048 45680340 45654048 45564761 45654048 45564761 45680340 45564761 45564761 45680340 45680340 45654048 45680340 45564761 45654048 45654048 45680340 45680340 45654048 45564761 45654048 45654048 45564761 45680340 45564761 45654048 45564761 45564761 45654048 45680340 45882363 45984004 45984004 45882363 45984004 45857991 45984004 45857991 45869021 46099645 45869021 46099645 46029496 45869021 45869021 46099645 45869021 46099645 45869021 46099645 45869021 45869021 45869021 46099645 46099645 46099645 46099645 46029496 46099645 46099645 45869021 46029496 46029496 46029496 46099645 46029496 46029496 45869021 45869021 45869021 46099645 46029496 46099645 45869021 45869021 46029496 45869021 45869021 45869021 46099645 46099645 46029496 45869021 46029496 45869021 46029496 46099645 46029496 45869021 46099645 46029496 46099645 46029496 46029496 46029496 46029496 46029496 46029496 0 } 
+}
+Attr<IntVector> { 
+Name "OpticalCrosstalkCompensationReferencePhase3Re"
+Value { 71980820 71980820 71980820 71980820 71980820 71980820 71980820 71973687 71973687 71973687 71806948 71806948 71806948 71806948 71973687 71806948 71980820 71973687 71973687 71973687 71973687 71806948 71980820 71980820 71973687 71980820 71806948 71973687 71980820 71973687 71980820 71973687 71806948 71973687 71806948 71980820 71806948 71806948 71980820 71980820 71973687 71980820 71806948 71973687 71973687 71980820 71980820 71973687 71806948 71973687 71973687 71806948 71980820 71806948 71973687 71806948 71806948 71973687 71980820 72285164 72433034 72433034 72285164 72433034 72222589 72433034 72222589 72373126 72712506 72373126 72712506 72640416 72373126 72373126 72712506 72373126 72712506 72373126 72712506 72373126 72373126 72373126 72712506 72712506 72712506 72712506 72640416 72712506 72712506 72373126 72640416 72640416 72640416 72712506 72640416 72640416 72373126 72373126 72373126 72712506 72640416 72712506 72373126 72373126 72640416 72373126 72373126 72373126 72712506 72712506 72640416 72373126 72640416 72373126 72640416 72712506 72640416 72373126 72712506 72640416 72712506 72640416 72640416 72640416 72640416 72640416 72640416 0 } 
+}
+Attr<IntVector> { 
+Name "OpticalCrosstalkCompensationReferencePhase4Re"
+Value { -162602 -162602 -162602 -162602 -162602 -162602 -162602 -160752 -160752 -160752 -157049 -157049 -157049 -157049 -160752 -157049 -162602 -160752 -160752 -160752 -160752 -157049 -162602 -162602 -160752 -162602 -157049 -160752 -162602 -160752 -162602 -160752 -157049 -160752 -157049 -162602 -157049 -157049 -162602 -162602 -160752 -162602 -157049 -160752 -160752 -162602 -162602 -160752 -157049 -160752 -160752 -157049 -162602 -157049 -160752 -157049 -157049 -160752 -162602 -143355 -151546 -151546 -143355 -151546 -154263 -151546 -154263 -172277 -168207 -172277 -168207 -169509 -172277 -172277 -168207 -172277 -168207 -172277 -168207 -172277 -172277 -172277 -168207 -168207 -168207 -168207 -169509 -168207 -168207 -172277 -169509 -169509 -169509 -168207 -169509 -169509 -172277 -172277 -172277 -168207 -169509 -168207 -172277 -172277 -169509 -172277 -172277 -172277 -168207 -168207 -169509 -172277 -169509 -172277 -169509 -168207 -169509 -172277 -168207 -169509 -168207 -169509 -169509 -169509 -169509 -169509 -169509 0 } 
+}
+Attr<IntVector> { 
+Name "OpticalCrosstalkCompensationReferencePhase5Re"
+Value { 5404004 5404004 5404004 5404004 5404004 5404004 5404004 5393264 5393264 5393264 5387663 5387663 5387663 5387663 5393264 5387663 5404004 5393264 5393264 5393264 5393264 5387663 5404004 5404004 5393264 5404004 5387663 5393264 5404004 5393264 5404004 5393264 5387663 5393264 5387663 5404004 5387663 5387663 5404004 5404004 5393264 5404004 5387663 5393264 5393264 5404004 5404004 5393264 5387663 5393264 5393264 5387663 5404004 5387663 5393264 5387663 5387663 5393264 5404004 5462594 5467638 5467638 5462594 5467638 5438648 5467638 5438648 5404762 5440236 5404762 5440236 5426595 5404762 5404762 5440236 5404762 5440236 5404762 5440236 5404762 5404762 5404762 5440236 5440236 5440236 5440236 5426595 5440236 5440236 5404762 5426595 5426595 5426595 5440236 5426595 5426595 5404762 5404762 5404762 5440236 5426595 5440236 5404762 5404762 5426595 5404762 5404762 5404762 5440236 5440236 5426595 5404762 5426595 5404762 5426595 5440236 5426595 5404762 5440236 5426595 5440236 5426595 5426595 5426595 5426595 5426595 5426595 0 } 
+}
+Attr<IntVector> { 
+Name "OpticalCrosstalkCompensationReferencePhase6Re"
+Value { 19464072 19464072 19464072 19464072 19464072 19464072 19464072 19481917 19481917 19481917 19425930 19425930 19425930 19425930 19481917 19425930 19464072 19481917 19481917 19481917 19481917 19425930 19464072 19464072 19481917 19464072 19425930 19481917 19464072 19481917 19464072 19481917 19425930 19481917 19425930 19464072 19425930 19425930 19464072 19464072 19481917 19464072 19425930 19481917 19481917 19464072 19464072 19481917 19425930 19481917 19481917 19425930 19464072 19425930 19481917 19425930 19425930 19481917 19464072 19516123 19559158 19559158 19516123 19559158 19507826 19559158 19507826 19598192 19681706 19598192 19681706 19679446 19598192 19598192 19681706 19598192 19681706 19598192 19681706 19598192 19598192 19598192 19681706 19681706 19681706 19681706 19679446 19681706 19681706 19598192 19679446 19679446 19679446 19681706 19679446 19679446 19598192 19598192 19598192 19681706 19679446 19681706 19598192 19598192 19679446 19598192 19598192 19598192 19681706 19681706 19679446 19598192 19679446 19598192 19679446 19681706 19679446 19598192 19681706 19679446 19681706 19679446 19679446 19679446 19679446 19679446 19679446 0 } 
+}
+Attr<IntVector> { 
+Name "OpticalCrosstalkCompensationReferencePhase1Im"
+Value { -33354224 -33354224 -33354224 -33354224 -33354224 -33354224 -33354224 -33599396 -33599396 -33599396 -33349460 -33349460 -33349460 -33349460 -33599396 -33349460 -33354224 -33599396 -33599396 -33599396 -33599396 -33349460 -33354224 -33354224 -33599396 -33354224 -33349460 -33599396 -33354224 -33599396 -33354224 -33599396 -33349460 -33599396 -33349460 -33354224 -33349460 -33349460 -33354224 -33354224 -33599396 -33354224 -33349460 -33599396 -33599396 -33354224 -33354224 -33599396 -33349460 -33599396 -33599396 -33349460 -33354224 -33349460 -33599396 -33349460 -33349460 -33599396 -33354224 -33052036 -33242236 -33242236 -33052036 -33242236 -33251960 -33242236 -33251960 -34281836 -34223556 -34281836 -34223556 -34364568 -34281836 -34281836 -34223556 -34281836 -34223556 -34281836 -34223556 -34281836 -34281836 -34281836 -34223556 -34223556 -34223556 -34223556 -34364568 -34223556 -34223556 -34281836 -34364568 -34364568 -34364568 -34223556 -34364568 -34364568 -34281836 -34281836 -34281836 -34223556 -34364568 -34223556 -34281836 -34281836 -34364568 -34281836 -34281836 -34281836 -34223556 -34223556 -34364568 -34281836 -34364568 -34281836 -34364568 -34223556 -34364568 -34281836 -34223556 -34364568 -34223556 -34364568 -34364568 -34364568 -34364568 -34364568 -34364568 4194304 } 
+}
+Attr<IntVector> { 
+Name "OpticalCrosstalkCompensationReferencePhase2Im"
+Value { -40258421 -40258421 -40258421 -40258421 -40258421 -40258421 -40258421 -40279313 -40279313 -40279313 -40175212 -40175212 -40175212 -40175212 -40279313 -40175212 -40258421 -40279313 -40279313 -40279313 -40279313 -40175212 -40258421 -40258421 -40279313 -40258421 -40175212 -40279313 -40258421 -40279313 -40258421 -40279313 -40175212 -40279313 -40175212 -40258421 -40175212 -40175212 -40258421 -40258421 -40279313 -40258421 -40175212 -40279313 -40279313 -40258421 -40258421 -40279313 -40175212 -40279313 -40279313 -40175212 -40258421 -40175212 -40279313 -40175212 -40175212 -40279313 -40258421 -40395607 -40481833 -40481833 -40395607 -40481833 -40383214 -40481833 -40383214 -40537446 -40707031 -40537446 -40707031 -40683194 -40537446 -40537446 -40707031 -40537446 -40707031 -40537446 -40707031 -40537446 -40537446 -40537446 -40707031 -40707031 -40707031 -40707031 -40683194 -40707031 -40707031 -40537446 -40683194 -40683194 -40683194 -40707031 -40683194 -40683194 -40537446 -40537446 -40537446 -40707031 -40683194 -40707031 -40537446 -40537446 -40683194 -40537446 -40537446 -40537446 -40707031 -40707031 -40683194 -40537446 -40683194 -40537446 -40683194 -40707031 -40683194 -40537446 -40707031 -40683194 -40707031 -40683194 -40683194 -40683194 -40683194 -40683194 -40683194 4194304 } 
+}
+Attr<IntVector> { 
+Name "OpticalCrosstalkCompensationReferencePhase3Im"
+Value { 21528276 21528276 21528276 21528276 21528276 21528276 21528276 21473214 21473214 21473214 21440160 21440160 21440160 21440160 21473214 21440160 21528276 21473214 21473214 21473214 21473214 21440160 21528276 21528276 21473214 21528276 21440160 21473214 21528276 21473214 21528276 21473214 21440160 21473214 21440160 21528276 21440160 21440160 21528276 21528276 21473214 21528276 21440160 21473214 21473214 21528276 21528276 21473214 21440160 21473214 21473214 21440160 21528276 21440160 21473214 21440160 21440160 21473214 21528276 21672370 21715268 21715268 21672370 21715268 21627215 21715268 21627215 21515879 21658253 21515879 21658253 21592110 21515879 21515879 21658253 21515879 21658253 21515879 21658253 21515879 21515879 21515879 21658253 21658253 21658253 21658253 21592110 21658253 21658253 21515879 21592110 21592110 21592110 21658253 21592110 21592110 21515879 21515879 21515879 21658253 21592110 21658253 21515879 21515879 21592110 21515879 21515879 21515879 21658253 21658253 21592110 21515879 21592110 21515879 21592110 21658253 21592110 21515879 21658253 21592110 21658253 21592110 21592110 21592110 21592110 21592110 21592110 4194304 } 
+}
+Attr<IntVector> { 
+Name "OpticalCrosstalkCompensationReferencePhase4Im"
+Value { 18628975 18628975 18628975 18628975 18628975 18628975 18628975 18629679 18629679 18629679 18591136 18591136 18591136 18591136 18629679 18591136 18628975 18629679 18629679 18629679 18629679 18591136 18628975 18628975 18629679 18628975 18591136 18629679 18628975 18629679 18628975 18629679 18591136 18629679 18591136 18628975 18591136 18591136 18628975 18628975 18629679 18628975 18591136 18629679 18629679 18628975 18628975 18629679 18591136 18629679 18629679 18591136 18628975 18591136 18629679 18591136 18591136 18629679 18628975 18729040 18755045 18755045 18729040 18755045 18689391 18755045 18689391 18722124 18810402 18722124 18810402 18793510 18722124 18722124 18810402 18722124 18810402 18722124 18810402 18722124 18722124 18722124 18810402 18810402 18810402 18810402 18793510 18810402 18810402 18722124 18793510 18793510 18793510 18810402 18793510 18793510 18722124 18722124 18722124 18810402 18793510 18810402 18722124 18722124 18793510 18722124 18722124 18722124 18810402 18810402 18793510 18722124 18793510 18722124 18793510 18810402 18793510 18722124 18810402 18793510 18810402 18793510 18793510 18793510 18793510 18793510 18793510 4194304 } 
+}
+Attr<IntVector> { 
+Name "OpticalCrosstalkCompensationReferencePhase5Im"
+Value { -18151139 -18151139 -18151139 -18151139 -18151139 -18151139 -18151139 -18162698 -18162698 -18162698 -18117508 -18117508 -18117508 -18117508 -18162698 -18117508 -18151139 -18162698 -18162698 -18162698 -18162698 -18117508 -18151139 -18151139 -18162698 -18151139 -18117508 -18162698 -18151139 -18162698 -18151139 -18162698 -18117508 -18162698 -18117508 -18151139 -18117508 -18117508 -18151139 -18151139 -18162698 -18151139 -18117508 -18162698 -18162698 -18151139 -18151139 -18162698 -18117508 -18162698 -18162698 -18117508 -18151139 -18117508 -18162698 -18117508 -18117508 -18162698 -18151139 -18222968 -18256934 -18256934 -18222968 -18256934 -18208879 -18256934 -18208879 -18268968 -18350893 -18268968 -18350893 -18337109 -18268968 -18268968 -18350893 -18268968 -18350893 -18268968 -18350893 -18268968 -18268968 -18268968 -18350893 -18350893 -18350893 -18350893 -18337109 -18350893 -18350893 -18268968 -18337109 -18337109 -18337109 -18350893 -18337109 -18337109 -18268968 -18268968 -18268968 -18350893 -18337109 -18350893 -18268968 -18268968 -18337109 -18268968 -18268968 -18268968 -18350893 -18350893 -18337109 -18268968 -18337109 -18268968 -18337109 -18350893 -18337109 -18268968 -18350893 -18337109 -18350893 -18337109 -18337109 -18337109 -18337109 -18337109 -18337109 4194304 } 
+}
+Attr<IntVector> { 
+Name "OpticalCrosstalkCompensationReferencePhase6Im"
+Value { -5036204 -5036204 -5036204 -5036204 -5036204 -5036204 -5036204 -5033866 -5033866 -5033866 -5026137 -5026137 -5026137 -5026137 -5033866 -5026137 -5036204 -5033866 -5033866 -5033866 -5033866 -5026137 -5036204 -5036204 -5033866 -5036204 -5026137 -5033866 -5036204 -5033866 -5036204 -5033866 -5026137 -5033866 -5026137 -5036204 -5026137 -5026137 -5036204 -5036204 -5033866 -5036204 -5026137 -5033866 -5033866 -5036204 -5036204 -5033866 -5026137 -5033866 -5033866 -5026137 -5036204 -5026137 -5033866 -5026137 -5026137 -5033866 -5036204 -5049977 -5053309 -5053309 -5049977 -5053309 -5051679 -5053309 -5051679 -5056461 -5077769 -5056461 -5077769 -5080249 -5056461 -5056461 -5077769 -5056461 -5077769 -5056461 -5077769 -5056461 -5056461 -5056461 -5077769 -5077769 -5077769 -5077769 -5080249 -5077769 -5077769 -5056461 -5080249 -5080249 -5080249 -5077769 -5080249 -5080249 -5056461 -5056461 -5056461 -5077769 -5080249 -5077769 -5056461 -5056461 -5080249 -5056461 -5056461 -5056461 -5077769 -5077769 -5080249 -5056461 -5080249 -5056461 -5080249 -5077769 -5080249 -5056461 -5077769 -5080249 -5077769 -5080249 -5080249 -5080249 -5080249 -5080249 -5080249 4194304 } 
+}
+Attr<bool> { 
+Name "OpticalCrosstalkCalibrationEnable"
+}
+Attr<UInt32Vector> { 
+Name "OpticalCrosstalkSegmentation"
+Value { 5006 5234 5461 5689 5916 6144 6372 6599 6827 7054 7282 7509 7737 7964 8192 8420 8647 8875 9102 9330 9557 9785 10012 10240 10468 10695 10923 11150 11378 11605 11833 12060 12288 12516 12743 12971 13198 13426 13653 13881 14108 14336 14564 14791 15019 15246 16156 17067 17977 18887 19797 20708 21618 22528 23438 24348 25259 26169 28444 30720 32996 35271 37547 39822 42098 44373 46649 48924 51200 53476 55751 56661 57572 58482 59392 60302 61212 62123 63033 63943 64853 65764 66674 66901 67129 67356 67584 67812 68039 68267 68494 68722 68949 69177 69404 69632 69860 70087 70315 70542 70770 70997 71225 71452 71680 71908 72135 72363 72590 72818 73045 73273 73500 73728 73956 74183 74411 74638 74866 75093 75321 75548 75776 76004 76231 76459 76686 76914 } 
+}
+Attr<uint16_t> { 
+Name "OpticalCrosstalkCalibrationWindowDetectionThreshold"
+Value 64
+}
+Attr<double> { 
+Name "OpticalCrosstalkCalibrationWindowReduction"
+Value 0.1
+}
+Attr<double> { 
+Name "OpticalCrosstalkCalibrationTiltTolerance"
+Value 0.02
+}
+Attr<double> { 
+Name "MinimumDistanceForBrightening"
+Value 20
+}
+Attr<bool> { 
+Name "ThetaDistBasedDistCompUsage"
+}
+Attr<bool> { 
+Name "ThetaDistBasedDistCompRelative"
+}
+Attr<bool> { 
+Name "ThetaDistBasedDistCompKeepFirstScanHalf"
+Value true
+}
+Attr<DVector> { 
+Name "ThetaDistBasedDistCompDistancesFirst"
+}
+Attr<DVector> { 
+Name "ThetaDistBasedDistCompThetasFirst"
+}
+Attr<DVector> { 
+Name "ThetaDistBasedDistCompCorrectionsFirst"
+}
+Attr<DVector> { 
+Name "ThetaDistBasedDistCompDistancesSecond"
+}
+Attr<DVector> { 
+Name "ThetaDistBasedDistCompThetasSecond"
+}
+Attr<DVector> { 
+Name "ThetaDistBasedDistCompCorrectionsSecond"
+}
+Attr<DVector> { 
+Name "ThetaDistBasedDistCompCorrectionsIntensities"
+}
+Attr<double> { 
+Name "CompassOffsetX"
+Value 159.401558741
+}
+Attr<double> { 
+Name "CompassOffsetY"
+}
+Attr<double> { 
+Name "CompassOffsetZ"
+}
+Attr<double> { 
+Name "CompassDirection"
+Value -144.053562516
+}
+Attr<double> { 
+Name "CompassMagnitude"
+Value 0.30281127
+}
+Attr<DVector> { 
+Name "CompassCalibResultsX"
+Value { 0.30281127 1 -144.053562516 145.595831286 1095.102040704 125 } 
+}
+Attr<DVector> { 
+Name "CompassCalibResultsY"
+}
+Attr<DVector> { 
+Name "CompassCalibResultsZ"
+}
+Attr<double> { 
+Name "altimeterReferenceAltitude"
+}
+Attr<double> { 
+Name "altimeterCurrentAltitude"
+Value -39.719923639
+}
+Attr<double> { 
+Name "altimeterReferencePressure"
+}
+Attr<double> { 
+Name "altimeterReferenceDateTime"
+}
+Attr<DVector> { 
+Name "MultiWaveWavelengths"
+}
+Attr<DVector> { 
+Name "MultiWaveSignalTable"
+}
+Attr<DVector> { 
+Name "MultiWaveAmplitudes"
+}
+Attr<DVector> { 
+Name "MultiWavePhases"
+}
+Attr<double> { 
+Name "MultiWaveResolution"
+Value 0.01
+}
+Attr<double> { 
+Name "MultiWaveDistOffset"
+Value 0.01
+}
+Attr<double> { 
+Name "TestSensorToleranceFactor"
+Value 4
+}
+Attr<int> { 
+Name "CalibVersion"
+Value 5
+}
+Attr<int> { 
+Name "CompassAnalysisAxis"
+}
+Attr<double> { 
+Name "octCorrectionGRV"
+Value 1
+}
+Attr<double> { 
+Name "LinIntensityToPowerFactor1"
+}
+Attr<double> { 
+Name "LinIntensityToPowerFactor2"
+}
+Attr<double> { 
+Name "StdApdPowerProduction"
+}
+Attr<double> { 
+Name "ScannerOutputPower"
+Value 400
+}
+Attr<DVector> { 
+Name "TxFraction125MHz"
+}
+Attr<DVector> { 
+Name "SensorDataFinephaseADCVoltage"
+}
+Attr<DVector> { 
+Name "AbsolutePowerCalibrationInputs"
+}
+Attr<StringArray> { 
+Name "AbsolutePowerCalibrationSerialNumbers"
+}
+Attr<bool> { 
+Name "AbsolutePowerCalibrationUsedNeedleTest"
+}
+Attr<bool> { 
+Name "AbsolutePowerCalibrationUsedProductionDataBase"
+}
+Attr<Vec3dd> { 
+Name "LaserOffset"
+Value 0.00031655221 0.05 -2.3869415e-05
+}
+}
+}
+SubContainer { 
+"BasisField" "BasisField"
+AttrContainer { 
+Attr<String> { 
+Name "Name"
+Value "BasisField"
+}
+Attr<int> { 
+Name "DataVersion"
+Value 7
+}
+Attr<int> { 
+Name "RevisionHW"
+Value 3
+}
+Attr<String> { 
+Name "RevisionFW"
+Value "0003.0324"
+}
+Attr<String> { 
+Name "ManufactureCode"
+Value "LLS071507281"
+}
+Attr<int> { 
+Name "BoardIdNumber"
+}
+Attr<int> { 
+Name "ScanMode"
+}
+Attr<double> { 
+Name "ModuleCurrent"
+}
+Attr<double> { 
+Name "MaxModuleCurrent"
+}
+Attr<DVector> { 
+Name "MinI2CTemp"
+Value { 0 0 0 0 0 } 
+}
+Attr<DVector> { 
+Name "I2CTemp"
+Value { 0 0 0 0 0 } 
+}
+Attr<DVector> { 
+Name "MaxI2CTemp"
+Value { 0 0 0 0 0 } 
+}
+Attr<double> { 
+Name "MinMcTemp"
+}
+Attr<double> { 
+Name "mcTemp"
+}
+Attr<double> { 
+Name "MaxMcTemp"
+}
+Attr<int> { 
+Name "ModuleActiveTime"
+}
+Attr<int> { 
+Name "HorEncoderSteps"
+Value 524288
+}
+Attr<int> { 
+Name "PcMode"
+}
+Attr<int> { 
+Name "MotorType"
+Value 6
+}
+Attr<int> { 
+Name "MotorCtrlType"
+Value 6
+}
+Attr<double> { 
+Name "RunForwardSpeed"
+Value 4.7
+}
+Attr<int> { 
+Name "MotorStepsPerRev"
+Value 524288
+}
+Attr<String> { 
+Name "SerialNo"
+Value "LLS071507281"
+}
+Attr<String> { 
+Name "MotorCtrlHorRevision"
+Value "0.24.2"
+}
+Attr<int> { 
+Name "NumberOfScans"
+Value 4411
+}
+Attr<int> { 
+Name "PrepaidNumTotal"
+}
+Attr<int> { 
+Name "PrepaidRemaining"
+}
+Attr<int> { 
+Name "PrepaidAlarm"
+Value 10
+}
+Attr<int> { 
+Name "PrepaidTanSet"
+}
+Attr<IntVector> { 
+Name "PrepaidTanField"
+Value { 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 } 
+}
+Attr<double> { 
+Name "MotorCurrent"
+}
+Attr<double> { 
+Name "MaxMotorCurrent"
+}
+Attr<double> { 
+Name "HorSpeedFactor"
+Value 1.02
+}
+Attr<double> { 
+Name "MirrorAxisAdjustment"
+Value -0.0010023122
+}
+Attr<Vec3ddVector> { 
+Name "EncoderCompTable"
+}
+Attr<int> { 
+Name "MotorCtrlInterfType"
+Value 2
+}
+Attr<int> { 
+Name "MotorCtrlInterfId"
+Value 63
+}
+Attr<int> { 
+Name "HorizontalSyncOffset"
+Value 849
+}
+Attr<int> { 
+Name "HorizontalSyncOffsetFactory"
+Value 849
+}
+Attr<int> { 
+Name "LastHorEncoder"
+Value 2
+}
+Attr<String> { 
+Name "MotorCtrlClass"
+Value "request"
+}
+Attr<double> { 
+Name "PositionTimeOut"
+Value 60
+}
+Attr<double> { 
+Name "VelocityTimeOut"
+Value 15
+}
+Attr<SVec2dd> { 
+Name "HousingOffset"
+Value -5.699795e-05 1.46361e-05
+}
+Attr<double> { 
+Name "PanErrorAmplitude"
+}
+Attr<double> { 
+Name "PanErrorPhase"
+}
+Attr<DVector> { 
+Name "ScannerTiltLookupTable"
+Value { 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 } 
+}
+Attr<int> { 
+Name "ScannerTiltLookupTableHorizontalSyncOffset"
+Value 1800
+}
+Attr<bool> { 
+Name "ScannerTiltCompensationEnabled"
+}
+}
+}
+SubContainer { 
+"MirrorField" "MirrorField"
+AttrContainer { 
+Attr<String> { 
+Name "Name"
+Value "MirrorField"
+}
+Attr<int> { 
+Name "DataVersion"
+Value 7
+}
+Attr<int> { 
+Name "RevisionHW"
+Value 3
+}
+Attr<String> { 
+Name "RevisionFW"
+Value "0003.0324"
+}
+Attr<String> { 
+Name "ManufactureCode"
+Value "LLS071507281"
+}
+Attr<int> { 
+Name "BoardIdNumber"
+}
+Attr<int> { 
+Name "ScanMode"
+}
+Attr<double> { 
+Name "ModuleCurrent"
+}
+Attr<double> { 
+Name "MaxModuleCurrent"
+}
+Attr<DVector> { 
+Name "MinI2CTemp"
+Value { 0 0 0 0 0 } 
+}
+Attr<DVector> { 
+Name "I2CTemp"
+Value { 0 0 0 0 0 } 
+}
+Attr<DVector> { 
+Name "MaxI2CTemp"
+Value { 0 0 0 0 0 } 
+}
+Attr<double> { 
+Name "MinMcTemp"
+}
+Attr<double> { 
+Name "mcTemp"
+}
+Attr<double> { 
+Name "MaxMcTemp"
+}
+Attr<int> { 
+Name "ModuleActiveTime"
+}
+Attr<int> { 
+Name "VertEncoderSteps"
+Value 81920
+}
+Attr<int> { 
+Name "MotorType"
+Value 6
+}
+Attr<int> { 
+Name "MotorCtrlType"
+Value 6
+}
+Attr<int> { 
+Name "VertResolutionFactor"
+Value 2
+}
+Attr<double> { 
+Name "MotorCurrent"
+}
+Attr<double> { 
+Name "MaxMotorCurrent"
+}
+Attr<String> { 
+Name "MotorCtrlVerRevision"
+Value "0.24.2"
+}
+Attr<double> { 
+Name "MirrorAxisAdjustment"
+}
+Attr<double> { 
+Name "TriggerOffset"
+Value 0.012955822
+}
+Attr<double> { 
+Name "MirrorAdjustment"
+Value -6.5188927e-05
+}
+Attr<double> { 
+Name "HorLaserAdjustment"
+}
+Attr<double> { 
+Name "VertLaserAdjustment"
+}
+Attr<Vec3ddVector> { 
+Name "EncoderCompTable"
+}
+Attr<int> { 
+Name "MaxMotorSpeedRPM"
+Value 6000
+}
+Attr<int> { 
+Name "ExpectVerticalSync"
+Value 3
+}
+Attr<int> { 
+Name "AutoMirrorEncSync"
+Value 1
+}
+Attr<Vec3dd> { 
+Name "GPSPositionalOffset"
+}
+Attr<StringArray> { 
+Name "GPSInitSequence"
+Value 3 "$PUBX,40,VTG,0,0,0,0,0,0*5E" "$PUBX,40,GLL,0,0,0,0,0,0*5C" "$PUBX,40,GST,0,1,1,0,0,0*5B"
+}
+Attr<Vec3dd> { 
+Name "GPSQualityLimits"
+Value 30 20 10
+}
+Attr<int> { 
+Name "MotorCtrlInterfType"
+Value 2
+}
+Attr<int> { 
+Name "MotorCtrlInterfId"
+Value 64
+}
+Attr<String> { 
+Name "MotorCtrlClass"
+Value "request"
+}
+Attr<int> { 
+Name "LegacyModeTransition"
+Value 1
+}
+Attr<int> { 
+Name "FullCounterOffset"
+Value 45
+}
+Attr<Vec3dd> { 
+Name "SyncQaudratureOffset"
+Value 2 2 2
+}
+Attr<int> { 
+Name "SyncJitterTolerance"
+Value 6
+}
+Attr<int> { 
+Name "SyncAverage"
+Value 64
+}
+Attr<double> { 
+Name "PositionTimeOut"
+Value 20
+}
+Attr<double> { 
+Name "VelocityTimeOut"
+Value 20
+}
+Attr<double> { 
+Name "ScanVelocityFactor"
+Value 1
+}
+Attr<int> { 
+Name "EccentricityOffset"
+}
+Attr<UInt8Vector> { 
+Name "GPSBinaryInitSequence"
+Value { 181 98 6 1 3 0 10 9 1 30 112 13 10 181 98 6 1 3 0 10 11 1 32 116 13 10 181 98 6 1 3 0 10 2 1 23 98 13 10 181 98 6 1 3 0 10 6 1 27 106 13 10 181 98 6 1 3 0 10 7 1 28 108 13 10 181 98 6 1 3 0 10 8 1 29 110 13 10 } 
+}
+Attr<UInt8Vector> { 
+Name "GPSBinaryPollSequence"
+Value { 181 98 10 4 0 0 14 52 13 10 } 
+}
+Attr<int> { 
+Name "GPSDiagnostics"
+}
+}
+}
+SubContainer { 
+"PcField" "PcField"
+AttrContainer { 
+Attr<String> { 
+Name "Name"
+Value "PcField"
+}
+Attr<int> { 
+Name "DataVersion"
+Value 7
+}
+Attr<int> { 
+Name "RevisionHW"
+Value 3
+}
+Attr<String> { 
+Name "RevisionFW"
+Value "0003.0324 0003.0324 0003.0324"
+}
+Attr<String> { 
+Name "ManufactureCode"
+Value "LLS071507281"
+}
+Attr<int> { 
+Name "BoardIdNumber"
+}
+Attr<int> { 
+Name "ScanMode"
+}
+Attr<double> { 
+Name "ModuleCurrent"
+}
+Attr<double> { 
+Name "MaxModuleCurrent"
+}
+Attr<DVector> { 
+Name "MinI2CTemp"
+Value { 0 0 0 0 0 } 
+}
+Attr<DVector> { 
+Name "I2CTemp"
+Value { 0 0 0 0 0 } 
+}
+Attr<DVector> { 
+Name "MaxI2CTemp"
+Value { 0 0 0 0 0 } 
+}
+Attr<double> { 
+Name "MinMcTemp"
+}
+Attr<double> { 
+Name "mcTemp"
+}
+Attr<double> { 
+Name "MaxMcTemp"
+}
+Attr<int> { 
+Name "ModuleActiveTime"
+}
+Attr<double> { 
+Name "FutureExtension"
+}
+Attr<int> { 
+Name "BootCurrentThreshold"
+Value 5
+}
+Attr<SVec2df> { 
+Name "CompCenter"
+Value 0.003816 0.001095
+}
+Attr<DVector> { 
+Name "CompRadialFactors"
+Value { -0.64083165 18.855607986 -178.034606934 1082.411132812 -4228.783691406 10776.875976562 -18452.1484375 22542.65234375 -20959.66015625 13080.887695312 -1355.029296875 -1468.575073242 -9517.440429688 16349.291015625 -10561.41796875 5036.743164062 -3401.327880859 841.967346191 866.135498047 -1024.699584961 1024.033691406 -309.105529785 -470.613311768 394.864898682 -85.924041748 } 
+}
+Attr<DVector> { 
+Name "CompTangentialFactors"
+Value { -0.0084135933 0.44644538 -3.702032328 5.127592564 104.199707031 -749.060791016 2401.331298828 -4335.579101562 4641.640136719 -3044.283691406 1414.495605469 -489.735443115 67.441795349 -794.528015137 1997.031982422 -1906.426757812 831.270202637 -139.652923584 0 0 0 0 0 0 0 } 
+}
+Attr<Mat4dd> { 
+Name "ExtCameraMatrix"
+Value 0.070791781 0.19345389 0.00013102641 0  -0.074371941 -0.00048385921 -1.6327917e-07 0  1.6659513e-05 -0.074818507 -4.7047902e-07 0  0.0039748414 0.001013165 -7.8283201e-06 1  
+}
+Attr<Mat4dd> { 
+Name "ExtCameraMatrix2"
+Value 0.081034727 0.25765035 0.00015152991 0  -0.093209624 -0.0026709503 -1.6201495e-06 0  0.032113537 0.0016503567 5.9269838e-05 0  -0.0011462454 -0.013974593 -2.0068133e-05 -1  
+}
+Attr<int> { 
+Name "CameraMount"
+}
+Attr<int> { 
+Name "CameraFlags"
+}
+Attr<double> { 
+Name "CameraParam0"
+Value 1
+}
+Attr<int> { 
+Name "CameraParam1"
+}
+Attr<double> { 
+Name "CameraParam2"
+}
+Attr<String> { 
+Name "ScannerOwner"
+}
+Attr<int> { 
+Name "Oversampling"
+Value 1
+}
+Attr<int> { 
+Name "ResolutionAbilityType"
+}
+Attr<UInt32Vector> { 
+Name "JumpsCorrectionParameters"
+Value { 7 1048576 2097152 3145728 4194304 5242880 6291456 7340032 500 1000 } 
+}
+Attr<int> { 
+Name "TempControlEnabled"
+Value 1
+}
+Attr<int> { 
+Name "TempControlPeriod"
+Value 15
+}
+Attr<DVector> { 
+Name "TempThrFPGA"
+Value { -2 1 2 5 40 45 47 52 61 66 } 
+}
+Attr<DVector> { 
+Name "TempThrCPU"
+Value { -20 1 2 5 40 45 50 52 61 66 } 
+}
+Attr<String> { 
+Name "TempCPUPath"
+Value "/sys/bus/platform/devices/coretemp.0/temp2_input"
+}
+Attr<DVector> { 
+Name "TempThrLsPcInterface"
+Value { -15 0 2 5 45 50 55 58 62 68 } 
+}
+Attr<DVector> { 
+Name "TempThrLsMainControl"
+Value { -15 0 2 5 45 50 55 58 62 68 } 
+}
+Attr<DVector> { 
+Name "TempThrLsSensorData"
+Value { -15 0 2 5 45 50 55 58 62 68 } 
+}
+Attr<DVector> { 
+Name "TempThrBattery"
+Value { -15 0 2 5 45 50 55 57 59 68 } 
+}
+Attr<DVector> { 
+Name "TempThrOptAmpl"
+Value { -15 0 2 5 45 50 55 57 59 64 } 
+}
+Attr<int> { 
+Name "FanControlEnabled"
+Value 1
+}
+Attr<int> { 
+Name "FanPower1"
+Value 30
+}
+Attr<int> { 
+Name "FanPower2"
+Value 75
+}
+Attr<int> { 
+Name "FanPower3"
+Value 100
+}
+Attr<int> { 
+Name "BatteryControlPeriod"
+Value 2
+}
+Attr<DVector> { 
+Name "BatteryLoadThresholds"
+Value { 5 10 90 } 
+}
+Attr<int> { 
+Name "InclinometerControlPeriod"
+Value 30
+}
+Attr<String> { 
+Name "MessagesFilePath"
+Value "/root/ScanOpD/messages/WarningMessages.Warnings.csv"
+}
+Attr<String> { 
+Name "SolutionsFilePath"
+Value "/root/ScanOpD/messages/WarningMessages.Solutions.csv"
+}
+Attr<String> { 
+Name "StringResourcesDirPath"
+Value "/root/ScanOpD/messages/"
+}
+Attr<String> { 
+Name "ProfileName"
+Value "\u5BA4\u5916 ...20m"
+}
+Attr<double> { 
+Name "StartTemperature"
+}
+Attr<int> { 
+Name "BytesLostUsb"
+Value 32099
+}
+Attr<int> { 
+Name "WlanUnlock"
+Value 1
+}
+Attr<int> { 
+Name "InclinometerUnlock"
+Value 1
+}
+Attr<int> { 
+Name "AltimeterUnlock"
+Value 1
+}
+Attr<int> { 
+Name "CompassUnlock"
+Value 1
+}
+Attr<int> { 
+Name "GPSUnlock"
+Value 1
+}
+Attr<int> { 
+Name "CMOSUnlock"
+Value 1
+}
+Attr<int> { 
+Name "HDRUnlock"
+}
+Attr<int> { 
+Name "Res8MPUnlock"
+}
+Attr<StringArray> { 
+Name "IOMonitorDevices"
+Value 2 "mmcblk0" "mmcblk1"
+}
+Attr<int> { 
+Name "MaxBufferSize"
+Value 150000000
+}
+Attr<int> { 
+Name "Branding"
+}
+Attr<int> { 
+Name "SockChannelVersionCompatibilityCheckEnabled"
+Value 1
+}
+Attr<int> { 
+Name "AutomaticRepairOfSDCard"
+Value 1
+}
+Attr<uint32_t> { 
+Name "MaxSuccessiveJumpsCorrections"
+Value 1000000
+}
+Attr<DVector> { 
+Name "TempThrBatteryCharging"
+Value { -15 0 2 5 45 50 55 57 59 68 } 
+}
+Attr<DVector> { 
+Name "TempThrADC"
+Value { -15 0 2 5 47 60 65 67 69 70 } 
+}
+Attr<DVector> { 
+Name "TempThrAPD"
+Value { -15 0 2 5 47 60 65 67 69 70 } 
+}
+Attr<int> { 
+Name "FanPower4"
+Value 75
+}
+Attr<int> { 
+Name "FanPower5"
+Value 100
+}
+Attr<int> { 
+Name "AutomationUnlock"
+}
+Attr<int> { 
+Name "MicrophoneUnlock"
+}
+Attr<int> { 
+Name "DisplayUnlock"
+}
+Attr<int> { 
+Name "ImuUnlock"
+}
+Attr<int> { 
+Name "BluetoothUnlock"
+}
+Attr<int> { 
+Name "NfcUnlock"
+}
+Attr<int> { 
+Name "EthernetUnlock"
+}
+Attr<int> { 
+Name "ThreeAxisAccelerometerUnlock"
+}
+Attr<int> { 
+Name "TelephonyUnlock"
+}
+Attr<bool> { 
+Name "EnableSensorDataPropagationToAndroid"
+}
+}
+}
+SubContainer { 
+"CmosCameraField" "CmosCameraField"
+AttrContainer { 
+Attr<String> { 
+Name "Name"
+Value "CmosCameraField"
+}
+Attr<int> { 
+Name "CalibVersion"
+Value 1
+}
+Attr<Vec3dd> { 
+Name "PicRotationAdjustment"
+Value -0.00037775233 0.0062189085 -6.0627319e-05
+}
+Attr<Vec3dd> { 
+Name "PicRotationAdjustmentVersion1"
+Value -0.0005814873 0.006557911 -7.7916203e-05
+}
+Attr<Vec3dd> { 
+Name "PicParallaxOffset"
+Value 0.00042028663 -0.00069963728 0.040239034
+}
+Attr<Vec3dd> { 
+Name "PicParallaxOffsetVersion1"
+Value 0.00037740181 -0.00069202279 0.039996185
+}
+Attr<Vec3dd> { 
+Name "PicChipScaling"
+Value 0.864635532 0.864241223 1
+}
+Attr<Vec3dd> { 
+Name "PicChipScalingVersion1"
+Value 0.870655911 0.869980517 1
+}
+Attr<Vec3dd> { 
+Name "PicPixelOffset"
+Value -0.0040006852 0.0024089558 0
+}
+Attr<Vec3dd> { 
+Name "PicPixelOffsetVersion1"
+Value -0.0036715427 0.0026405549 0
+}
+Attr<int> { 
+Name "PicCols"
+Value 2048
+}
+Attr<int> { 
+Name "PicRows"
+Value 1536
+}
+Attr<double> { 
+Name "BlueGainRotMirror"
+}
+Attr<double> { 
+Name "BlueOffsetRotMirror"
+Value 1
+}
+Attr<int> { 
+Name "VerticalPositionTolerance"
+Value 10
+}
+Attr<int> { 
+Name "HorizontalPositionTolerance"
+Value 1200
+}
+Attr<int> { 
+Name "VerticalMovementTolerance"
+Value 4
+}
+Attr<int> { 
+Name "HorizontalMovementTolerance"
+Value 25
+}
+Attr<DVector> { 
+Name "PicUndistortFactorsVersion1"
+Value { 0.36555752 -1.187526177 -0.29600318 0 0 0 } 
+}
+Attr<DVector> { 
+Name "PicCalibExtendedParams"
+}
+Attr<Vec3dd> { 
+Name "PicTilt"
+Value -0.0025607617 0.00039201584 0
+}
+Attr<Vec3dd> { 
+Name "PicTiltVersion1"
+Value -0.0027111342 0.00032463988 0
+}
+Attr<Vec3dd> { 
+Name "ExposureTimes"
+}
+Attr<double> { 
+Name "ExposureCorrectionFactor"
+Value 1
+}
+Attr<Vec3dd> { 
+Name "WhiteBalance"
+}
+Attr<Vec3dd> { 
+Name "SelectedWhiteBalance"
+}
+Attr<Vec3dd> { 
+Name "SelectedBlackLevel"
+}
+Attr<int> { 
+Name "CapturePictureRetry"
+Value 3
+}
+Attr<double> { 
+Name "MaxCameraGainUsed"
+Value 62
+}
+Attr<int> { 
+Name "WhiteBalanceRetry"
+Value 3
+}
+Attr<double> { 
+Name "WhiteBalanceRetryAngle"
+Value 5
+}
+Attr<Vec3dd> { 
+Name "FallbackWhiteBalance"
+Value 1.3 1 1.7
+}
+Attr<int> { 
+Name "WhiteBalanceMeasurePeriod"
+Value 5000
+}
+Attr<int> { 
+Name "MirrorPositioningTimeout"
+Value 5000
+}
+Attr<DVector> { 
+Name "BasicOpticParams"
+Value { 0.7 0.3 0.048 0.06 0.025 0.03 0.03 0.018 0.005 0.14648438 10 0 5 0.001 45 } 
+}
+Attr<Vec3dd> { 
+Name "RequestedPositionsParams"
+Value 28 27 -85
+}
+Attr<DVector> { 
+Name "RequestedPositions"
+Value { -71.5 -49 -18 11.5 33 61.5 61.5 33 11.5 -18 -49 -71.5 } 
+}
+Attr<int> { 
+Name "ExposureMeteringMode"
+Value 1
+}
+Attr<Vec3dd> { 
+Name "ExposureMeteringParams"
+Value 1 1 0
+}
+Attr<DVector> { 
+Name "HDRExposureTimes"
+Value { 1 } 
+}
+Attr<int> { 
+Name "HDRSettingsChangeDelay"
+Value 150
+}
+Attr<int> { 
+Name "HDRMode"
+}
+Attr<double> { 
+Name "HDREVStops"
+Value 2
+}
+Attr<DVector> { 
+Name "GeneralCalibrationParams"
+Value { 1.2 0.8 } 
+}
+Attr<DVector> { 
+Name "PictureBrightnessValues"
+}
+Attr<int> { 
+Name "LowBrightnessWarningThreshold"
+Value 10
+}
+Attr<IntVector> { 
+Name "JpegQuantization"
+Value { 3 2 2 3 5 8 10 11 2 2 3 4 5 11 11 10 3 2 3 5 8 11 13 11 3 3 4 5 10 16 15 12 3 4 7 11 13 20 19 14 5 7 10 12 15 20 21 17 9 12 15 16 19 23 23 19 4 17 18 18 21 19 19 19 3 3 5 9 19 19 19 19 3 4 5 12 19 19 19 19 5 5 11 19 19 19 19 19 9 12 19 19 19 19 19 19 9 19 19 19 19 19 19 19 9 19 19 19 19 19 19 19 9 19 19 19 19 19 19 19 9 19 19 19 19 19 19 19 } 
+}
+Attr<IntVector> { 
+Name "JpegQuantizationPattern"
+Value { 0 0 0 1 1 0 2 0 1 1 0 2 0 3 1 2 2 1 3 0 4 0 3 1 2 2 1 3 0 4 0 5 1 4 2 3 3 2 4 1 5 0 6 0 5 1 4 2 3 3 2 4 1 5 0 6 0 7 1 6 2 5 3 4 4 3 5 2 6 1 7 0 7 1 6 2 5 3 4 4 3 5 2 6 1 7 2 7 3 6 4 5 5 4 6 3 7 2 7 3 6 4 5 5 4 6 3 7 4 7 5 6 6 5 7 4 7 5 6 6 5 7 6 7 7 6 7 7 } 
+}
+Attr<DVector> { 
+Name "JpegParams"
+Value { 4 1 2 3 4 5 6 7 16 4 } 
+}
+Attr<int> { 
+Name "JpegDefaultQuality"
+Value 15
+}
+Attr<int> { 
+Name "JpegQualityResetBase"
+Value 10
+}
+Attr<DVector> { 
+Name "ExposureEstimationParams"
+Value { 0.25 10 100 5 0.1 0.3 0.6 0.02 25 } 
+}
+Attr<DVector> { 
+Name "ColorCorrectionMatrix"
+Value { 1.81682539 -0.97207524 0.15524986 -0.10931323 1.24448736 -0.13517412 0.11571514 -0.72612913 1.61041398 } 
+}
+Attr<DVector> { 
+Name "WhiteBalanceArea"
+Value { 1084 2160 1200 2300 908 2272 1216 50 1512 50 1348 124 250 2220 530 2300 250 2348 } 
+}
+Attr<double> { 
+Name "WhiteBalanceMirrorAngle"
+Value 2.2
+}
+Attr<int> { 
+Name "ImageOutputMode"
+Value 3
+}
+Attr<uint32_t> { 
+Name "ImageDownscalingControl"
+Value 3
+}
+Attr<int> { 
+Name "WhiteBalanceFrameSettle"
+Value 1
+}
+Attr<double> { 
+Name "HorizontalAngleOffsetForImageTaking"
+Value 3.141592654
+}
+Attr<Vec3dd> { 
+Name "FallbackBlackLevelFpga"
+}
+Attr<int> { 
+Name "CmosTemperatureWarn"
+Value 50
+}
+Attr<int> { 
+Name "WhiteBalanceLoops"
+Value 5
+}
+Attr<double> { 
+Name "WhiteBalanceSaturationLimit"
+Value 0.001
+}
+Attr<double> { 
+Name "WhiteBalanceSaturationDownscale"
+Value 0.5
+}
+Attr<Vec3dd> { 
+Name "ColorScanDurationEstimation"
+Value 3 80 0.6
+}
+Attr<Vec3dd> { 
+Name "WhiteBalanceHValues"
+Value 1023 1023 1023
+}
+Attr<DVector> { 
+Name "WhiteBalanceRefPicCorrection"
+Value { 1.263489821 1.063246124 1.006882871 } 
+}
+Attr<DVector> { 
+Name "WhiteBalanceRefPicWB"
+Value { 1.482112691 1 1.592976734 } 
+}
+Attr<int> { 
+Name "SelectedRefPic"
+}
+Attr<Vec3dd> { 
+Name "WhiteBalanceRefCover"
+Value 0.9488 1.002 1.0799
+}
+Attr<Vec2iVector> { 
+Name "AdditionalEncoderPositionsForImages"
+}
+Attr<int> { 
+Name "AdvancedExposureMode"
+}
+Attr<DVector> { 
+Name "AdvancedExposureParams"
+Value { 1 0 6 2 } 
+}
+Attr<DVector> { 
+Name "PicUndistortFactorsC"
+Value { 0 0 0 0 0 0 } 
+}
+Attr<int> { 
+Name "BlackLevelFpga"
+Value 20
+}
+Attr<bool> { 
+Name "HDREnableAlternatingExposureBracketing"
+Value true
+}
+Attr<Vec3dd> { 
+Name "Offset"
+Value 0.00017776492 0.039993028 0.00072017665
+}
+Attr<Vec3dd> { 
+Name "Rotation"
+Value -0.00094118732 0.78547802 -0.0018145697
+}
+Attr<Mat4dd> { 
+Name "CameraMatrix"
+Value 2179.750691242 0 0 0  0 2181.355144488 0 0  1042.655319186 763.248096859 1 0  0 0 0 1  
+}
+Attr<DVector> { 
+Name "Distortion"
+Value { 0.11831889 -0.40190113 4.5143352e-05 0.0026683144 0 } 
+}
+Attr<int> { 
+Name "PrimaryCalibVersion"
+Value 2
+}
+}
+}
+SubContainer { 
+"AttrContainer" "PowerMonitorField"
+AttrContainer { 
+Attr<String> { 
+Name "Name"
+Value "PowerMonitorField"
+}
+Attr<bool> { 
+Name "EnablePowerMonitor"
+}
+Attr<int> { 
+Name "PowerMonitorType"
+}
+Attr<int> { 
+Name "PowerMonitorFastSamplingPeriod"
+}
+Attr<int> { 
+Name "PowerMonitorNormalSamplingPeriod"
+}
+}
+}
+SubContainer { 
+"AttrContainer" "F0086MonitorField"
+AttrContainer { 
+Attr<String> { 
+Name "Name"
+Value "F0086MonitorField"
+}
+Attr<bool> { 
+Name "EnableF0086Monitor"
+}
+Attr<int> { 
+Name "F0086MonitorFastSamplingPeriod"
+}
+Attr<int> { 
+Name "F0086MonitorNormalSamplingPeriod"
+}
+Attr<int> { 
+Name "F0086MonitorFanSpeedTolerance"
+Value 10
+}
+}
+}
+SubContainer { 
+"AttrContainer" "SeamLineCorrectionField"
+AttrContainer { 
+Attr<String> { 
+Name "Name"
+Value "SeamLineCorrectionField"
+}
+Attr<int> { 
+Name "SeamLineCorrectionApplied"
+}
+Attr<int> { 
+Name "AlgorithmRevision"
+}
+Attr<Vec3ddVector> { 
+Name "DistanceStatsSL1"
+}
+Attr<Vec3ddVector> { 
+Name "DistanceStatsSL2"
+}
+Attr<Vec3ddVector> { 
+Name "DistanceStats"
+}
+Attr<Vec4ddVector> { 
+Name "ParameterValues"
+}
+Attr<Vec4dd> { 
+Name "ParameterValuesBefore"
+}
+Attr<Vec4dd> { 
+Name "ParameterValuesAfter"
+}
+Attr<bool> { 
+Name "TestResult"
+}
+Attr<double> { 
+Name "Could2CloudTriggerOffset"
+}
+Attr<bool> { 
+Name "Could2CloudTriggerOffsetSuccess"
+}
+Attr<Vec4dd> { 
+Name "ParameterValuesOriginal"
+}
+Attr<bool> { 
+Name "ParameterValuesOriginalSet"
+}
+}
+}
+}

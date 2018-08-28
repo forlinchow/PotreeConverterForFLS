@@ -1,0 +1,71 @@
+
+CalibVersion 4
+CalibFlags 1
+DistOffset 0.04771177
+DistFactor 0.073171534
+FileName ""
+MirrorAdjustment -6.5188927e-05
+MirrorAxisAdjustment -0.0010023122
+HorLaserAdjustment -0.00074865654
+VertLaserAdjustment -0.0021750714
+AddtlAmplOffset 0
+AddtlAmplFactor 1
+TriggerOffset 0.012955822
+DistCalibAngle 0
+DistCalibLength 0
+DistConstCalibAngle1 0
+DistConstCalibLength1 0
+DistConstCalibAngle2 5.843
+DistConstCalibLength2 6.79e-05
+ReflDeltaDistData 2 { 0 0
+2100 0
+
+}
+DeltaDistData 46 { 0 0
+0.4 0.0013
+0.6 0.0019
+0.8 0.0003
+1 0.0003
+1.2 0.0007
+1.4 0.0002
+1.6 0.0005
+1.8 0.0005
+2 0.0001
+2.2 0.0006
+2.4 0.0003
+2.6 -0.0001
+2.8 0.0007
+3 0.0003
+3.2 0.0002
+3.4 0.0003
+3.6 0
+3.8 0.0005
+4 0.0002
+5 0.0003
+6 0.0003
+7 0.0002
+8 0.0002
+9 0.0001
+10 0.0002
+11 0.0001
+12 0.0001
+13 0
+14 0.0001
+15 -0.0001
+16 -0.0001
+17 -0.0002
+18 -0.0001
+20 -0.0002
+22 0
+24 0
+26 0
+28 0
+30 0
+32 0
+34 0
+36 0
+40 0
+44 0
+48 0
+
+}

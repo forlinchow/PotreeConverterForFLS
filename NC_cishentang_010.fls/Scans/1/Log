@@ -1,0 +1,222 @@
+28.11.2017|16:15:44:353|5|Main|iQScanServer.cpp(11888)|ScanServer::scanStart: Successfully opened local file /Scans/Scans/NC_cishentang_010.fls
+28.11.2017|16:15:44:424|7|ScanOp_Thread|ScanOpPhoton2.cpp(3515)|scanThreadProcSimple() entering
+28.11.2017|16:15:44:435|7|ScanOp_Thread|ScanOpPhoton2.cpp(1487)|runToStartPositionAndPrepare() entering
+28.11.2017|16:15:44:435|7|ScanOp_Thread|ScanOpPhoton2.cpp(914)|pointsPerTurn = 5120 measureRate = 244140.625 verticalSpeedRPM = 2861.022949219
+28.11.2017|16:15:44:435|7|ScanOp_Thread|ScanOpPhoton2.cpp(1492)|Scans will finish even when distance tolerance errors occur.
+28.11.2017|16:15:44:436|7|ScanOp_Thread|ScanOpPhoton2.cpp(2396)|Camera is unlocked
+28.11.2017|16:15:44:436|5|ScanOp_Thread|iQMicrobusServer.cpp(4677)|stopPollingSystemMeasurements
+28.11.2017|16:15:44:522|5|ScanOp_Thread|iQMicrobusServer.cpp(3961)|Stored the horizonal encoder counts of 2 from FPGA into the Parameters.
+28.11.2017|16:15:44:522|7|ScanOp_Thread|iQMicrobusServer.cpp(7930)|Starting FPGA reconfiguration if necessary. New config: 0
+28.11.2017|16:15:44:523|7|ScanOp_Thread|iQMicrobusServer.cpp(7944)|Present FPGA configuration already matches image number and force=false. Not continuing with reprogramming.
+28.11.2017|16:15:44:524|7|ScanOp_Thread|iQMicrobusServer.cpp(3779)|Sub Configuration To Load: 2, Doppler compensation enabled
+28.11.2017|16:15:44:525|7|ScanOp_Thread|iQMicrobusServer.cpp(3827)|Setting gray value offset of: -4432
+28.11.2017|16:15:44:527|7|ScanOp_Thread|iQMicrobusServer.cpp(3832)|Setting gray value scale factor of: 299
+28.11.2017|16:15:44:532|7|ScanOp_Thread|iQMicrobusServer.cpp(5182)|Querying error flag of pan axis interpolator channel 0
+28.11.2017|16:15:44:546|7|ScanOp_Thread|iQMicrobusServer.cpp(5182)|Querying error flag of pan axis interpolator channel 1
+28.11.2017|16:15:44:583|7|ScanOp_Thread|ScanOpPhoton2.cpp(1539)|Going to create color  camera
+28.11.2017|16:15:44:639|7|ScanOp_Thread|ScanOpPhoton2.cpp(1104)|Setting median filter 1
+28.11.2017|16:15:44:640|7|ScanOp_Thread|ScanOpPhoton2.cpp(1155)|X130 sensor detected
+28.11.2017|16:15:44:640|7|ScanOp_Thread|ScanOpPhoton2.cpp(1185)|Setting distance limitation - L20(distanceLimitation = 0x0, phaseLimitation = 0x0)
+28.11.2017|16:15:44:643|7|ScanOp_Thread|ScanOpPhoton2.cpp(1574)|ScanRunMode=false
+28.11.2017|16:15:44:748|7|ScanOp_Thread|ScanOpPhoton2.cpp(4310)|adjustVerticalSpeed() entering
+28.11.2017|16:15:44:749|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(967)|V: runVelocity(speed=2861.022949219rpm)
+
+28.11.2017|16:15:44:762|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(154)|V: Statusword=0x5737
+28.11.2017|16:15:44:784|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(1311)|V: waitForReachedVelocity(timeout=-1)
+28.11.2017|16:15:44:785|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(1391)|V: waitForTargetReached(timeout=20)
+28.11.2017|16:15:49:766|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(1416)|V: Target reached. statusword=5687
+28.11.2017|16:15:49:769|7|ScanOp_Thread|ScanOpPhoton2.cpp(5020)|Encoder sync refine, adjust=163835
+28.11.2017|16:15:49:769|7|ScanOp_Thread|ScanOpPhoton2.cpp(5022)|VERTICAL_ENCODER_DUAL_COUNTER_ADJUSTMENT:=-5
+28.11.2017|16:15:49:781|7|ScanOp_Thread|ScanOpPhoton2.cpp(1594)|Setting internal subsampling to 16
+28.11.2017|16:15:50:209|5|ScanOp_Thread|Altimeter.cpp(231)|Altimeter during Scan: height=-39.719923639
+28.11.2017|16:15:50:209|5|ScanOp_Thread|Altimeter.cpp(234)|Altimeter during Scan: pressure=101803
+28.11.2017|16:15:50:209|5|ScanOp_Thread|Altimeter.cpp(237)|Altimeter during Scan: temperature=38.6
+28.11.2017|16:15:50:210|7|ScanOp_Thread|ScanOpPhoton2.cpp(1230)|runToStartPosition() entering
+28.11.2017|16:15:50:216|7|ScanOp_Thread|ScanOpPhoton2.cpp(1329)|Running pan axis to encoder count: -1688
+28.11.2017|16:15:50:216|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(1195)|H: absMoveTo(pos=-1688, wait=true)
+28.11.2017|16:15:50:216|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(1156)|H: moveTo(pos=0.99516106,rel=false, wait=true, speed=4.699999809)
+
+28.11.2017|16:15:50:223|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(154)|H: Statusword=0x1737
+28.11.2017|16:15:50:260|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(1242)|H: waitForMovement(timeout=-1)
+28.11.2017|16:15:50:260|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(1391)|H: waitForTargetReached(timeout=60)
+28.11.2017|16:15:51:139|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(1416)|H: Target reached. statusword=5943
+28.11.2017|16:15:51:146|7|ScanOp_Thread|ScanOpPhoton2.cpp(1380)|Horizontal Encoder End Counter sent to FPGA for HTE: 263611
+28.11.2017|16:15:51:159|7|ScanOp_Thread|ScannerHwFaroBusLiteLayer.cpp(1582)|Uploading Phase Compensation table to FPGA values: 2048 interpolated tables: true
+28.11.2017|16:15:51:159|7|ScanOp_Thread|ScannerHwFaroBusLiteLayer.cpp(1611)|Beginning to write phase compensation table
+28.11.2017|16:15:52:581|7|ScanOp_Thread|ScannerHwFaroBusLiteLayer.cpp(1731)|Finished writing phase compensation table
+28.11.2017|16:15:52:581|7|ScanOp_Thread|ScannerHwFaroBusLiteLayer.cpp(1739)|Beginning to validate phase compensation table
+28.11.2017|16:15:52:722|7|ScanOp_Thread|ScannerHwFaroBusLiteLayer.cpp(1755)|Successfully validated phase compensation table
+28.11.2017|16:15:52:723|7|ScanOp_Thread|iQMicrobusServer.cpp(5745)|WriteParameter: Successfully wrote the phase compensation table.
+28.11.2017|16:15:52:723|7|ScanOp_Thread|iQMicrobusServer.cpp(5866)|Set dual reference Positions: Light: 0 , Dark: 0
+28.11.2017|16:15:52:724|7|ScanOp_Thread|iQMicrobusServer.cpp(5879)|Set dual reference offset: 0
+28.11.2017|16:15:52:727|7|ScanOp_Thread|iQMicrobusServer.cpp(6054)|Set the Phase Reference Start to: 80040
+28.11.2017|16:15:52:730|7|Main|SystemMonitors.cpp(529)|Temperatures: TEMP_CPU=27; TEMP_FPGA=33; TEMP_LSPCINTERFACE=49; TEMP_LSMAINCONTROL=34; TEMP_LSSENSORDATA=34; TEMP_BATTERY=31; TEMP_OPTAMPL=34; 
+28.11.2017|16:15:52:741|7|ScanOp_Thread|iQMicrobusServer.cpp(6099)|Set the Housing Open Bypass to: false
+28.11.2017|16:15:52:751|7|ScanOp_Thread|OpticalCrosstalk.cpp(866)|Selected modulation pattern when uploading optical crosstalk compensation: 5
+28.11.2017|16:15:54:048|7|ScanOp_Thread|iQScanServer.cpp(13753)|Successfully uploaded optical crosstalk compensation values
+28.11.2017|16:15:54:049|7|ScanOp_Thread|OpticalCrosstalk.cpp(160)|Enabling optical crosstalk compensation overflow checks
+28.11.2017|16:15:54:051|7|ScanOp_Thread|OpticalCrosstalk.cpp(176)|Enabling sending of INF messages on optical crosstalk compensation overflow checks
+28.11.2017|16:15:54:054|7|ScanOp_Thread|iQMicrobusServer.cpp(6167)|Setting the laser power to: 0.50 watts
+28.11.2017|16:15:54:091|7|ScanOp_Thread|iQMicrobusServer.cpp(4253)|The desired power 0.501 and the current power 0.501 set is the same, the value will not be written.
+28.11.2017|16:15:54:091|7|ScanOp_Thread|iQMicrobusServer.cpp(6172)|Setting the APD responsivity (HV Offset): 57.25 V
+28.11.2017|16:15:54:145|7|ScanOp_Thread|iQMicrobusServer.cpp(6178)|Setting the modulation pattern to: 5
+28.11.2017|16:15:54:145|5|ScanOp_Thread|iQMicrobusServer.cpp(4213)|Succesfully set modulation pattern to 5
+28.11.2017|16:15:54:148|7|ScanOp_Thread|ScanOpPhoton2.cpp(1778)|Checking housing/laser jumper state
+28.11.2017|16:15:54:148|5|ScanOp_Thread|ScanPreview.cpp(195)|Start capturing picture preview triggerOffset: 0.012955822 horAngStart: 0 horAngEnd: 6.283185307 vertAngStart: 1.570796327 vertAngEnd: -1.047197551
+28.11.2017|16:15:54:150|7|ScanOp_Thread|ScanOpPhoton2.cpp(3070)|Activated scan preview through FARO bus light command PRV
+28.11.2017|16:15:54:151|7|ScanOp_Thread|ScanOpPhoton2.cpp(3174)|Inclinometer capture start: Point Distance: 524 Start Angle: 522602
+28.11.2017|16:15:54:152|7|ScanOp_Thread|ADCOffsetCompensation.cpp(63)|Triggering ADC offset measurement
+28.11.2017|16:15:54:154|7|ScanOp_Thread|ADCOffsetCompensation.cpp(91)|ADC offset measurement finished. Enabling compensation (value: 27 [0.000824])
+28.11.2017|16:15:54:157|7|ScanOp_Thread|iQMicrobusServer.cpp(4100)|Activating APD
+28.11.2017|16:15:54:157|7|ScanOp_Thread|iQMicrobusServer.cpp(4124)|Found V6 sensor or newer
+28.11.2017|16:15:54:190|5|ScanOp_Thread|iQScanOp.cpp(1487)|ScanOp: Laser activated.
+28.11.2017|16:15:56:206|7|ScanOp_Thread|ScanOpPhoton2.cpp(646)|Sent reply to automation device: id=2, data0=0
+28.11.2017|16:15:56:207|7|ScanOp_Thread|ScannerHwFaroBusLiteLayer.cpp(995)|Dual color reference line:  disabled. 
+28.11.2017|16:15:56:247|7|ScanOp_Thread|ScanOpPhoton2.cpp(1222)|Seed Laser reports PMin:5.00 PMax:1.40 PVal:1.40 Phase:2 Algo:1 ModMin:213.00 ModMax:213.00
+28.11.2017|16:15:56:249|7|ScanOp_Thread|ScanOpPhoton2.cpp(3709)|startHorizontalMovement
+28.11.2017|16:15:56:249|7|ScanOp_Thread|ScanOpPhoton2.cpp(3715)|Enabling HTE sending
+28.11.2017|16:15:56:260|7|ScanOp_Thread|ScanOpPhoton2.cpp(3718)|Enabling END sending
+28.11.2017|16:15:56:262|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(967)|H: runVelocity(speed=0.5659898rpm)
+
+28.11.2017|16:15:56:276|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(154)|H: Statusword=0x1737
+28.11.2017|16:15:56:294|7|ScanOp_Thread|ScanOpPhoton2.cpp(3731)|check if data is coming in
+28.11.2017|16:15:56:294|7|ScanOp_Thread|ScanOpPhoton2.cpp(2555)|check if data is coming in, timeOut=24.194304
+28.11.2017|16:15:56:894|7|ScanOp_Thread|ScanOpPhoton2.cpp(3738)|data is coming in
+28.11.2017|16:15:56:895|7|ScanOp_Thread|iQMicrobusServer.cpp(5944)|Uploading encoder synchronization parameters:  obSize= 100 intCnt64= 130 t01=5 t04=5 t16=5 t64=5
+28.11.2017|16:15:56:900|7|ScanOp_Thread|iQMicrobusServer.cpp(5956)|Successfully uploaded encoder synchronization parameters
+28.11.2017|16:15:56:902|5|ScanOp_Thread|ScanOpPhoton2.cpp(2520)|Reflection measured on reference spot is 1701
+28.11.2017|16:15:56:903|7|ScanOp_Thread|ScanOpPhoton2.cpp(2169)|Current average intensity on the reference track: 1695
+28.11.2017|16:15:56:903|7|ScanOp_Thread|ScanOpPhoton2.cpp(2187)|New computed average intensity on the reference track: 1695
+28.11.2017|16:15:56:903|7|ScanOp_Thread|ScanOpPhoton2.cpp(3759)|start grabbing scan data
+28.11.2017|16:15:56:903|7|ScanOp_Thread|ScanOpPhoton2.cpp(3766)|Live status is OK
+28.11.2017|16:15:56:907|5|ScanOp_Thread|Performance.cpp(444)|CPU-Usage: 000.00 CPU-Idle: 000.00  Mem-Total: 0508048 kB  Mem-Used: 0451260 kB  Mem-Free: 0056788 kB  Mem-Buffer: 0011892 kB  Swap-Total: 0409596 kB  Swap-Used: 0000036 kB  Swap-Free: 0409560 kB  Swap-Cache: 0181944 kB  IO (/dev/sda): SectorsRead: 00000 (00000.000 1/s)  SectorsWrite: 00000 (00000.000 1/s)  SectorSize: 00.500 kB  Read: 00000.000 kB (00000.000 kB/s)  Write: 00000.000 kB (00000.000 kB/s)  Time: 00000 ms  
+28.11.2017|16:16:01:716|5|ScanOp_Thread|Performance.cpp(444)|CPU-Usage: 045.40 CPU-Idle: 054.60  Mem-Total: 0508048 kB  Mem-Used: 0454800 kB  Mem-Free: 0053248 kB  Mem-Buffer: 0011892 kB  Swap-Total: 0409596 kB  Swap-Used: 0000036 kB  Swap-Free: 0409560 kB  Swap-Cache: 0185428 kB  IO (/dev/sda): SectorsRead: 00000 (00000.000 1/s)  SectorsWrite: 00000 (00000.000 1/s)  SectorSize: 00.500 kB  Read: 00000.000 kB (00000.000 kB/s)  Write: 00000.000 kB (00000.000 kB/s)  Time: 00000 ms  
+28.11.2017|16:16:06:224|5|ScanOp_Thread|Performance.cpp(444)|CPU-Usage: 047.11 CPU-Idle: 052.89  Mem-Total: 0508048 kB  Mem-Used: 0458500 kB  Mem-Free: 0049548 kB  Mem-Buffer: 0011900 kB  Swap-Total: 0409596 kB  Swap-Used: 0000036 kB  Swap-Free: 0409560 kB  Swap-Cache: 0188616 kB  IO (/dev/sda): SectorsRead: 00000 (00000.000 1/s)  SectorsWrite: 00000 (00000.000 1/s)  SectorSize: 00.500 kB  Read: 00000.000 kB (00000.000 kB/s)  Write: 00000.000 kB (00000.000 kB/s)  Time: 00000 ms  
+28.11.2017|16:16:07:755|7|Main|SystemMonitors.cpp(529)|Temperatures: TEMP_CPU=28; TEMP_FPGA=33; TEMP_LSPCINTERFACE=49; TEMP_LSMAINCONTROL=34; TEMP_LSSENSORDATA=34; TEMP_BATTERY=31; TEMP_OPTAMPL=34; 
+28.11.2017|16:16:10:732|5|ScanOp_Thread|Performance.cpp(444)|CPU-Usage: 045.86 CPU-Idle: 054.14  Mem-Total: 0508048 kB  Mem-Used: 0461956 kB  Mem-Free: 0046092 kB  Mem-Buffer: 0011900 kB  Swap-Total: 0409596 kB  Swap-Used: 0000036 kB  Swap-Free: 0409560 kB  Swap-Cache: 0191832 kB  IO (/dev/sda): SectorsRead: 00000 (00000.000 1/s)  SectorsWrite: 00000 (00000.000 1/s)  SectorSize: 00.500 kB  Read: 00000.000 kB (00000.000 kB/s)  Write: 00000.000 kB (00000.000 kB/s)  Time: 00000 ms  
+28.11.2017|16:16:15:240|5|ScanOp_Thread|Performance.cpp(444)|CPU-Usage: 051.81 CPU-Idle: 048.19  Mem-Total: 0508048 kB  Mem-Used: 0465540 kB  Mem-Free: 0042508 kB  Mem-Buffer: 0011908 kB  Swap-Total: 0409596 kB  Swap-Used: 0000036 kB  Swap-Free: 0409560 kB  Swap-Cache: 0195096 kB  IO (/dev/sda): SectorsRead: 00000 (00000.000 1/s)  SectorsWrite: 00000 (00000.000 1/s)  SectorSize: 00.500 kB  Read: 00000.000 kB (00000.000 kB/s)  Write: 00000.000 kB (00000.000 kB/s)  Time: 00000 ms  
+28.11.2017|16:16:19:748|5|ScanOp_Thread|Performance.cpp(444)|CPU-Usage: 055.48 CPU-Idle: 044.52  Mem-Total: 0508048 kB  Mem-Used: 0469008 kB  Mem-Free: 0039040 kB  Mem-Buffer: 0011908 kB  Swap-Total: 0409596 kB  Swap-Used: 0000036 kB  Swap-Free: 0409560 kB  Swap-Cache: 0198268 kB  IO (/dev/sda): SectorsRead: 00000 (00000.000 1/s)  SectorsWrite: 00000 (00000.000 1/s)  SectorSize: 00.500 kB  Read: 00000.000 kB (00000.000 kB/s)  Write: 00000.000 kB (00000.000 kB/s)  Time: 00000 ms  
+28.11.2017|16:16:24:256|5|ScanOp_Thread|Performance.cpp(444)|CPU-Usage: 050.00 CPU-Idle: 050.00  Mem-Total: 0508048 kB  Mem-Used: 0473104 kB  Mem-Free: 0034944 kB  Mem-Buffer: 0011920 kB  Swap-Total: 0409596 kB  Swap-Used: 0000036 kB  Swap-Free: 0409560 kB  Swap-Cache: 0201548 kB  IO (/dev/sda): SectorsRead: 00000 (00000.000 1/s)  SectorsWrite: 00000 (00000.000 1/s)  SectorSize: 00.500 kB  Read: 00000.000 kB (00000.000 kB/s)  Write: 00000.000 kB (00000.000 kB/s)  Time: 00000 ms  
+28.11.2017|16:16:28:765|5|ScanOp_Thread|Performance.cpp(444)|CPU-Usage: 049.53 CPU-Idle: 050.47  Mem-Total: 0508048 kB  Mem-Used: 0476808 kB  Mem-Free: 0031240 kB  Mem-Buffer: 0011920 kB  Swap-Total: 0409596 kB  Swap-Used: 0000036 kB  Swap-Free: 0409560 kB  Swap-Cache: 0204828 kB  IO (/dev/sda): SectorsRead: 00000 (00000.000 1/s)  SectorsWrite: 00000 (00000.000 1/s)  SectorSize: 00.500 kB  Read: 00000.000 kB (00000.000 kB/s)  Write: 00000.000 kB (00000.000 kB/s)  Time: 00000 ms  
+28.11.2017|16:16:33:274|5|ScanOp_Thread|Performance.cpp(444)|CPU-Usage: 044.34 CPU-Idle: 055.66  Mem-Total: 0508048 kB  Mem-Used: 0480276 kB  Mem-Free: 0027772 kB  Mem-Buffer: 0011928 kB  Swap-Total: 0409596 kB  Swap-Used: 0000036 kB  Swap-Free: 0409560 kB  Swap-Cache: 0208092 kB  IO (/dev/sda): SectorsRead: 00000 (00000.000 1/s)  SectorsWrite: 00000 (00000.000 1/s)  SectorSize: 00.500 kB  Read: 00000.000 kB (00000.000 kB/s)  Write: 00000.000 kB (00000.000 kB/s)  Time: 00000 ms  
+28.11.2017|16:16:37:782|5|ScanOp_Thread|Performance.cpp(444)|CPU-Usage: 044.94 CPU-Idle: 055.06  Mem-Total: 0508048 kB  Mem-Used: 0483996 kB  Mem-Free: 0024052 kB  Mem-Buffer: 0011928 kB  Swap-Total: 0409596 kB  Swap-Used: 0000036 kB  Swap-Free: 0409560 kB  Swap-Cache: 0211564 kB  IO (/dev/sda): SectorsRead: 00000 (00000.000 1/s)  SectorsWrite: 00000 (00000.000 1/s)  SectorSize: 00.500 kB  Read: 00000.000 kB (00000.000 kB/s)  Write: 00000.000 kB (00000.000 kB/s)  Time: 00000 ms  
+28.11.2017|16:16:42:290|5|ScanOp_Thread|Performance.cpp(444)|CPU-Usage: 042.92 CPU-Idle: 057.08  Mem-Total: 0508048 kB  Mem-Used: 0487964 kB  Mem-Free: 0020084 kB  Mem-Buffer: 0011936 kB  Swap-Total: 0409596 kB  Swap-Used: 0000036 kB  Swap-Free: 0409560 kB  Swap-Cache: 0215100 kB  IO (/dev/sda): SectorsRead: 00000 (00000.000 1/s)  SectorsWrite: 00000 (00000.000 1/s)  SectorSize: 00.500 kB  Read: 00000.000 kB (00000.000 kB/s)  Write: 00000.000 kB (00000.000 kB/s)  Time: 00000 ms  
+28.11.2017|16:16:46:798|5|ScanOp_Thread|Performance.cpp(444)|CPU-Usage: 044.06 CPU-Idle: 055.94  Mem-Total: 0508048 kB  Mem-Used: 0492052 kB  Mem-Free: 0015996 kB  Mem-Buffer: 0011936 kB  Swap-Total: 0409596 kB  Swap-Used: 0000036 kB  Swap-Free: 0409560 kB  Swap-Cache: 0218508 kB  IO (/dev/sda): SectorsRead: 00000 (00000.000 1/s)  SectorsWrite: 00000 (00000.000 1/s)  SectorSize: 00.500 kB  Read: 00000.000 kB (00000.000 kB/s)  Write: 00000.000 kB (00000.000 kB/s)  Time: 00000 ms  
+28.11.2017|16:16:50:004|7|USBChannel|ScanOpPhoton2.cpp(282)|HTE Arrived
+28.11.2017|16:16:50:005|7|USBChannel|ScanOpPhoton2.cpp(519)|ListenerForScanData log:
+ enabled= true
+ scanmode=0
+ forceEndAngleReached= true
+ scanDataStream.HEnc_value >=  encoderListenRange[0] : 263584 >= 0
+ scanDataStream.HEnc_value <=  encoderListenRange[1] : 263584 <= 263611
+ moreInfoPackages > numScanLinesToSkip : 2563 > 9
+ numberOfScanlines < options.numberOfScanlines : 2537 < 2578
+ finalized= false
+ finalizeScan= true
+ scancompleted= true
+28.11.2017|16:16:50:104|5|ScanOp_Thread|Performance.cpp(444)|CPU-Usage: 044.55 CPU-Idle: 055.45  Mem-Total: 0508048 kB  Mem-Used: 0494524 kB  Mem-Free: 0013524 kB  Mem-Buffer: 0011944 kB  Swap-Total: 0409596 kB  Swap-Used: 0000036 kB  Swap-Free: 0409560 kB  Swap-Cache: 0220820 kB  IO (/dev/sda): SectorsRead: 00000 (00000.000 1/s)  SectorsWrite: 00000 (00000.000 1/s)  SectorSize: 00.500 kB  Read: 00000.000 kB (00000.000 kB/s)  Write: 00000.000 kB (00000.000 kB/s)  Time: 00000 ms  
+28.11.2017|16:16:50:105|7|ScanOp_Thread|ScanOpPhoton2.cpp(3846)|Live status is OK
+28.11.2017|16:16:50:184|7|ScanOp_Thread|iQMicrobusServer.cpp(4104)|Deactivating APD
+28.11.2017|16:16:50:184|7|ScanOp_Thread|iQMicrobusServer.cpp(4124)|Found V6 sensor or newer
+28.11.2017|16:16:50:290|5|ScanOp_Thread|iQScanOp.cpp(1487)|ScanOp: Laser deactivated.
+28.11.2017|16:16:50:291|7|ScanOp_Thread|ScanOpPhoton2.cpp(646)|Sent reply to automation device: id=1, data0=0
+28.11.2017|16:16:50:291|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(967)|H: runVelocity(speed=0rpm)
+
+28.11.2017|16:16:50:303|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(154)|H: Statusword=0x1737
+28.11.2017|16:16:50:321|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(967)|V: runVelocity(speed=0rpm)
+
+28.11.2017|16:16:50:334|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(154)|V: Statusword=0x1637
+28.11.2017|16:16:50:355|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(1311)|V: waitForReachedVelocity(timeout=-1)
+28.11.2017|16:16:50:355|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(1391)|V: waitForTargetReached(timeout=20)
+28.11.2017|16:16:53:062|7|Main|SystemMonitors.cpp(529)|Temperatures: TEMP_CPU=27; TEMP_FPGA=33; TEMP_LSPCINTERFACE=49; TEMP_LSMAINCONTROL=34; TEMP_LSSENSORDATA=34; TEMP_BATTERY=31; TEMP_OPTAMPL=34; 
+28.11.2017|16:16:55:372|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(1416)|V: Target reached. statusword=22071
+28.11.2017|16:16:55:372|7|ScanOp_Thread|ScanOpPhoton2.cpp(3915)|Buffer statistics after scan has finished:
+28.11.2017|16:16:55:373|7|ScanOp_Thread|ScannerHwFaroBusLiteLayer.cpp(2585)|Max Fill of FIFO Buffer for Data : 124 (0.00 %)
+28.11.2017|16:16:55:373|7|ScanOp_Thread|ScannerHwFaroBusLiteLayer.cpp(2586)|Max Fill of FIFO Buffer for Length:8 (0.00 %)
+28.11.2017|16:16:55:373|7|ScanOp_Thread|ScannerHwFaroBusLiteLayer.cpp(2591)|Max Fill of FIFO Cache for Data  : 92 (0.56 %)
+28.11.2017|16:16:55:373|7|ScanOp_Thread|ScannerHwFaroBusLiteLayer.cpp(2592)|Max Fill of FIFO Cache for Length: 8 (0.78 %)
+28.11.2017|16:16:55:373|7|ScanOp_Thread|ScannerHwFaroBusLiteLayer.cpp(2595)|Number of arrived BST messages: 1
+28.11.2017|16:16:55:374|7|ScanOp_Thread|OpticalCrosstalk.cpp(160)|Disabling optical crosstalk compensation overflow checks
+28.11.2017|16:16:55:441|7|ScanOp_Thread|OpticalCrosstalk.cpp(176)|Disabling sending of INF messages on optical crosstalk compensation overflow checks
+28.11.2017|16:16:55:443|7|ScanOp_Thread|ScannerHwFaroBusLiteLayer.cpp(995)|Dual color reference line:  disabled. 
+28.11.2017|16:16:55:445|7|ScanOp_Thread|iQMicrobusServer.cpp(5897)|Resetted Encoder Syncronization Parameters
+28.11.2017|16:16:55:445|7|ScanOp_Thread|ScanOpPhoton2.cpp(3966)|Do optional color camera run
+28.11.2017|16:16:55:445|5|ScanOp_Thread|iQScanServer.cpp(9075)|Finishing with overHead False
+28.11.2017|16:16:55:463|7|ScanOp_Thread|Inclinometer.cpp(812)|Inclinometer Data:  Measurements:509 Angle: 0.01562086 Axis: -0.26220577 0.96501199 0  Phi: 3.406899892 Theta:0.01562086
+28.11.2017|16:16:55:471|7|ScanOp_Thread|ScanOpPhoton2.cpp(4016)|Completing the rotation
+28.11.2017|16:16:55:471|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(1104)|V: runToHome()
+
+28.11.2017|16:16:55:471|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(1156)|V: moveTo(pos=0,rel=false, wait=false, speed=6060.000361204)
+
+28.11.2017|16:16:55:478|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(154)|V: Statusword=0x5637
+28.11.2017|16:16:55:514|7|ScanOp_Thread|ScanOpPhoton2.cpp(3315)|Stopping mirror
+28.11.2017|16:16:55:514|7|ScanOp_Thread|ScanOpPhoton2.cpp(3393)|Turning additional steps: 523763
+28.11.2017|16:16:55:514|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(1214)|H: relMoveTo(pos=523763, wait=true)
+28.11.2017|16:16:55:514|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(1223)|H: val=0.99899864
+
+28.11.2017|16:16:55:515|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(1156)|H: moveTo(pos=0.99899864,rel=true, wait=true, speed=3)
+
+28.11.2017|16:16:55:521|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(154)|H: Statusword=0x1737
+28.11.2017|16:16:55:561|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(1242)|H: waitForMovement(timeout=-1)
+28.11.2017|16:16:55:561|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(1391)|H: waitForTargetReached(timeout=60)
+28.11.2017|16:17:06:063|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(1416)|H: Target reached. statusword=5943
+28.11.2017|16:17:06:071|5|ScanOp_Thread|iQScanServer.cpp(9075)|Finishing with overHead False
+28.11.2017|16:17:06:097|7|ScanOp_Thread|Inclinometer.cpp(812)|Inclinometer Data:  Measurements:999 Angle: 0.014296839 Axis: -0.31133542 0.95030009 0  Phi: 3.458190621 Theta:0.014296839
+28.11.2017|16:17:06:209|7|ScanOp_Thread|ScanOpPhoton2.cpp(3210)|Inclinometer capture finished.
+28.11.2017|16:17:06:210|5|ScanOp_Thread|iQScanServer.cpp(1422)|ScanServer::FinalizeScanWithCompass(), Evaluating compass data after scan.
+28.11.2017|16:17:06:217|7|ScanOp_Thread|Compass.cpp(703)|CompassDataEvaluator::calculateCalibration()
+  compassMagnitude = 0.30281127
+  compassDirection = -144.053562516
+  NormalizedFieldStrength = 125
+  SNR              = 1095.102040704
+
+28.11.2017|16:17:06:259|7|ScanOp_Thread|ScanOpPhoton2.cpp(1222)|Seed Laser reports PMin:1.38 PMax:1.41 PVal:1.40 Phase:0 Algo:1 ModMin:213.00 ModMax:213.00
+28.11.2017|16:17:06:259|7|ScanOp_Thread|ScanOpPhoton2.cpp(4044)|Left main scanning loop, entering stopScanning
+28.11.2017|16:17:06:259|7|ScanOp_Thread|iQMicrobusServer.cpp(4104)|Deactivating APD
+28.11.2017|16:17:06:260|7|ScanOp_Thread|iQMicrobusServer.cpp(4124)|Found V6 sensor or newer
+28.11.2017|16:17:06:313|5|ScanOp_Thread|iQScanOp.cpp(1487)|ScanOp: Laser deactivated.
+28.11.2017|16:17:06:314|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(967)|V: runVelocity(speed=0rpm)
+
+28.11.2017|16:17:06:327|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(154)|V: Statusword=0x5637
+28.11.2017|16:17:06:346|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(1311)|V: waitForReachedVelocity(timeout=-1)
+28.11.2017|16:17:06:347|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(1391)|V: waitForTargetReached(timeout=20)
+28.11.2017|16:17:06:353|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(1416)|V: Target reached. statusword=22071
+28.11.2017|16:17:06:353|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(1031)|V: findHome()
+28.11.2017|16:17:06:353|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(1156)|V: moveTo(pos=-0.02,rel=false, wait=true, speed=6060.000361204)
+
+28.11.2017|16:17:06:360|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(154)|V: Statusword=0x5637
+28.11.2017|16:17:06:396|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(1242)|V: waitForMovement(timeout=10)
+28.11.2017|16:17:06:396|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(1391)|V: waitForTargetReached(timeout=10)
+28.11.2017|16:17:06:698|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(1416)|V: Target reached. statusword=22071
+28.11.2017|16:17:06:698|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(989)|V: findHomeCanOpen()
+28.11.2017|16:17:06:723|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(154)|V: Statusword=0x4637
+28.11.2017|16:17:06:817|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(1014)|V: Home position is found. statusword=0x5337
+28.11.2017|16:17:06:817|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(1156)|V: moveTo(pos=0,rel=false, wait=true, speed=6060.000361204)
+
+28.11.2017|16:17:06:824|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(154)|V: Statusword=0x5337
+28.11.2017|16:17:06:862|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(1242)|V: waitForMovement(timeout=-1)
+28.11.2017|16:17:06:863|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(1391)|V: waitForTargetReached(timeout=20)
+28.11.2017|16:17:07:509|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(1416)|V: Target reached. statusword=22327
+28.11.2017|16:17:07:516|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(1242)|V: waitForMovement(timeout=-1)
+28.11.2017|16:17:07:516|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(1391)|V: waitForTargetReached(timeout=20)
+28.11.2017|16:17:07:523|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(1416)|V: Target reached. statusword=22327
+28.11.2017|16:17:07:523|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(1093)|H: resetToHome()
+
+28.11.2017|16:17:07:523|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(1156)|H: moveTo(pos=0.99838066,rel=false, wait=true, speed=13.913044308)
+
+28.11.2017|16:17:07:530|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(154)|H: Statusword=0x1737
+28.11.2017|16:17:07:567|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(1242)|H: waitForMovement(timeout=-1)
+28.11.2017|16:17:07:567|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(1391)|H: waitForTargetReached(timeout=60)
+28.11.2017|16:17:08:100|7|ScanOp_Thread|CanOpenDS402MotorCtrl.cpp(1416)|H: Target reached. statusword=5943
+28.11.2017|16:17:08:184|7|Main|SystemMonitors.cpp(529)|Temperatures: TEMP_CPU=28; TEMP_FPGA=33; TEMP_LSPCINTERFACE=49; TEMP_LSMAINCONTROL=34; TEMP_LSSENSORDATA=34; TEMP_BATTERY=31; TEMP_OPTAMPL=34; 
+28.11.2017|16:17:08:200|5|ScanOp_Thread|iQMicrobusServer.cpp(3961)|Stored the horizonal encoder counts of 2 from FPGA into the Parameters.
+28.11.2017|16:17:08:200|5|ScanOp_Thread|iQMicrobusServer.cpp(4694)|resumePollingSystemMeasurements
+28.11.2017|16:17:08:201|7|ScanOp_Thread|ScanOpPhoton2.cpp(4057)|stopScanning returned
+28.11.2017|16:17:08:201|7|ScanOp_Thread|ScanOpPhoton2.cpp(4061)|Disabling HTE sending
+28.11.2017|16:17:08:202|7|ScanOp_Thread|ScanOpPhoton2.cpp(4064)|Disabling END sending
+28.11.2017|16:17:09:093|7|ScanOp_Thread|ScanPreview.cpp(458)|Scan Preview was cropped:  X1:0, Y1:0, X2:1022, Y2:426 Scaled:1022x425 path:/Scans/Preview/NC_cishentang_010.fls.grey.jpg
+28.11.2017|16:17:09:188|5|ScanOp_Thread|ScanOpPhoton2.cpp(4798)|Data counter mismatch detected. Fpga reported 40340416 bytes, driver reported 40308317 bytes, channel reported 40308317 bytes
+28.11.2017|16:17:09:272|7|Main|iQScanServer.cpp(6591)|Entering informScanCompletedPrev
+28.11.2017|16:17:09:300|5|Main|iQScanServer.cpp(6698)|ScanServer::informScanCompleted: Completing a local scan : "/Scans/Scans/NC_cishentang_010.fls"
+  RingBuf max fill state = 0
+28.11.2017|16:17:09:300|5|Main|iQScanServer.cpp(12132)|Got 83 gps packages.
